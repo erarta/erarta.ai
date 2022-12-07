@@ -22229,13 +22229,7 @@ define('model/app_model',[
 
     return new Model();
 });
-//@formatter:on
-;
-/**
- * User: emlyn
- * Date: 27/06/12
- * Time: 2:14 PM
- */
+
 define('controller/app_controller',[
     'backbone',
     'underscore',
@@ -22340,7 +22334,7 @@ define('data/tracking_data',[],function () {
     return TrackingData;
 });
 /**
- * @author emlyn@resn.co.nz
+ * @author evgeniy@erarta.
  */
 define('model/tracking_collection',[
 		"jquery",
@@ -22451,11 +22445,7 @@ define('util/google_analytics',[
 		window.ga.apply(window.ga,arguments);
 	};
 });
-/**
- * User: emlyn
- * Date: 27/06/12
- * Time: 2:14 PM
- */
+
 define('controller/tracking_controller',[
 	"backbone",
 	"jquery",
@@ -26266,14 +26256,6 @@ arguments[4][21][0].apply(exports,arguments)
 }();
 
 },{}]},{},[1]);
-
-/**
- * Created with JetBrains WebStorm.
- * User: SimonM
- * Date: 20/04/15
- * Time: 12:22 PM
- * To change this template use File | Settings | File Templates.
- */
 
 define('util/resn/math',[], function() {
 
