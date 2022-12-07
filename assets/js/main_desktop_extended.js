@@ -53591,8 +53591,6 @@ define(
 
             _switchToMenu: function() {
 
-								debugger;
-
                 console.log('WorkPage._switchToMenu');
 
                 var fromMode = this._mode;

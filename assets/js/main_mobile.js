@@ -47173,8 +47173,6 @@ define('view/mobile/pages/work',[
         _switchToMenu: function() {
             console.log("WorkPage._switchToMenu");
 
-						debugger;
-
             this._mode = modes.MODE_MENU;
             var index;
 
