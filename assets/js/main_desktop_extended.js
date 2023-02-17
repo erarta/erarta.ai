@@ -27275,6 +27275,7 @@ define('view/modules/common/effects/base_text_effect_view',[
             this.ctx.imageSmoothingEnabled = true;
             
             this.letterData = options.letterData;
+
             this.letterData.images.forEach(function (image) {
                 if (!image.el) {
                     image.el = new Image();
