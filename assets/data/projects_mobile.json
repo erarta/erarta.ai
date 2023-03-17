@@ -1,20 +1,20 @@
 {
     "projects": [
         {
-            "route": "proxima",
+            "route": "pandora",
             "menutitle": "",
             "enabled": true,
             "featured": true,
             "globaltitle": "",
             "title": "Nutrition done right",
-            "description": "People all over the world suffer from eating bad food, Proxima will help you fix this by providing simple yet smart recommendations and daily tracking with tips from the doctor",
+            "description": "People all over the world suffer from eating bad food, pandora will help you fix this by providing simple yet smart recommendations and daily tracking with tips from the doctor",
             "client": "Erarta",
             "date": "January, 2023",
             "role": "Concept, Design, Development",
             "platforms": "",
-            "url": "https://proxima.erarta.ai/",
-            "poster": "img/projects/proxima/proxima-poster-m.jpg",
-            "poster_m": "img/projects/proxima/proxima-poster-m.jpg",
+            "url": "https://pandora.erarta.ai/",
+            "poster": "img/projects/pandora/pandora-poster-m.jpg",
+            "poster_m": "img/projects/pandora/pandora-poster-m.jpg",
             "categories": ["mobile", "Web AR"],
             "awards": [],
             "items": [
@@ -23,8 +23,8 @@
                     "data": {
                         "vimeo_id": "347507060",
                         "video_name": "dektop_flow",
-                        "vimeo_video_url": "assets/video/projects/proxima/program_studio_demo_autoplanner.mp4",
-                        "video_poster": "img/projects/proxima/ss-img-07.png",
+                        "vimeo_video_url": "assets/video/projects/pandora/program_studio_demo_autoplanner.mp4",
+                        "video_poster": "img/projects/pandora/ss-img-07.png",
                         "src_width": 1535,
                         "src_height": 864,
                         "width_columns": 8,
@@ -41,7 +41,7 @@
                 {
                     "type": "image",
                     "data": {
-                        "src": "img/projects/proxima/ss-img-01.png",
+                        "src": "img/projects/pandora/ss-img-01.png",
                         "src_width": 1535,
                         "src_height": 864,
                         "width_columns": 8,
@@ -59,7 +59,7 @@
                 {
                     "type": "image",
                     "data": {
-                        "src": "img/projects/proxima/ss-img-06.png",
+                        "src": "img/projects/pandora/ss-img-06.png",
                         "src_width": 1536,
                         "src_height": 864,
                         "width_columns": 3,
@@ -70,7 +70,7 @@
                 {
                     "type": "image",
                     "data": {
-                        "src": "img/projects/proxima/ss-img-02.png",
+                        "src": "img/projects/pandora/ss-img-02.png",
                         "src_width": 519,
                         "src_height": 921,
                         "width_columns": 3,
@@ -156,7 +156,7 @@
                 {
                     "type": "image",
                     "data": {
-                        "src": "img/projects/proxima/ss-img-03.png",
+                        "src": "img/projects/pandora/ss-img-03.png",
                         "src_width": 519,
                         "src_height": 921,
                         "width_columns": 3,
@@ -167,7 +167,7 @@
                 {
                     "type": "image",
                     "data": {
-                        "src": "img/projects/proxima/ss-img-04.png",
+                        "src": "img/projects/pandora/ss-img-04.png",
                         "src_width": 519,
                         "src_height": 921,
                         "width_columns": 3,
@@ -186,7 +186,7 @@
                     "type": "headline",
                     "data": {
                         "title": "AR Elements",
-                        "body": "Our simulated AR approach used the gyroscope to synchronise the position of the sphere of water with the user’s phone movements. To convincingly blend our 3D render with the user’s environment, we simulated light reflections on the water’s surface by extracting colors from the users camera feed. These techniques allowed us to approximate an AR experience inside a mobile browser."
+                        "body": "Our simulated AR approach used the gyroscope to synchronise the position of the sphere of water with the user’s phone movements. To convincingly blend our 3D render with the user’s environment, we simulated light reflections on the water’s surface by extracting colors from the users camera feed. These techniques allowed us to appandorate an AR experience inside a mobile browser."
 					}
                 }
             ]
