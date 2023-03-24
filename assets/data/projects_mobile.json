@@ -35,7 +35,7 @@
                     "type": "headline",
                     "data": {
                         "title": "The Concept",
-                        "body": "Below the Surface aims to raise awareness of the true horrors of commercial fishing bycatch by using the immersive power of AR. Made with Jelly, Resn’s industry-leading real-time Web3D pipeline, the experience lets you see the reality of bycatch on a mobile device."
+                        "body": "Pandora is divided in 3 sections: programs, dictionaries and autoplanning. You can create endless amount of programs which are connected to your custom dictionaries. You can also import your existing programs (tasks) from 3rd party systems like Jira for example. Then you can apply them in autoplanner to get perfectly drafted plan for you."
 					}
                 },
                 {
@@ -90,7 +90,7 @@
                     "data": {
                         "vimeo_id": "390928180",
                         "video_name": "ssvid1",
-                        "vimeo_video_url": "https://player.vimeo.com/external/390928180.sd.mp4?s=cfd8585449ffea247a1d43fb50cf052a1c362469&profile_id=165",
+                        "vimeo_video_url": "assets/video/projects/pandora/program_studio_create_task_demo_mobile.mp4",
                         "src_width": 550,
                         "src_height": 957,
                         "width_columns": 3,
@@ -103,7 +103,7 @@
                     "data": {
                         "vimeo_id": "390928794",
                         "video_name": "ssvid2",
-                        "vimeo_video_url": "https://player.vimeo.com/external/390928794.sd.mp4?s=d7791e9960e810d034d66462ea24df133cc31661&profile_id=165",
+                        "vimeo_video_url": "assets/video/projects/pandora/program_studio_import_jira_demo_mobile.mp4",
                         "src_width": 550,
                         "src_height": 957,
                         "width_columns": 3,
@@ -124,7 +124,7 @@
                     "data": {
                         "vimeo_id": "390929846",
                         "video_name": "ssvid3",
-                        "vimeo_video_url": "https://player.vimeo.com/external/390929846.sd.mp4?s=43d5cc15c069c7bb5987276880452ce3fd6b0300&profile_id=165",
+                        "vimeo_video_url": "assets/video/projects/pandora/program_studio_export_tasks_demo_mobile.mp4",
                         "src_width": 550,
                         "src_height": 957,
                         "width_columns": 3,
@@ -137,7 +137,7 @@
                     "data": {
                         "vimeo_id": "390930200",
                         "video_name": "ssvid4",
-                        "vimeo_video_url": "https://player.vimeo.com/external/390930200.sd.mp4?s=0d8edb34b4be331253b0379ca58419c670ff0af8&profile_id=165",
+                        "vimeo_video_url": "assets/video/projects/pandora/program_studio_autoplanner_demo_mobile.mp4",
                         "src_width": 550,
                         "src_height": 957,
                         "width_columns": 3,

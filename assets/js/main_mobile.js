@@ -24897,7 +24897,7 @@ module.exports = function (props) {
                 h(
                     "h4",
                     null,
-                    "RESN ROLE"
+                    "ERARTA ROLE"
                 ),
                 h(
                     "p",
@@ -25123,7 +25123,7 @@ module.exports = function (props) {
                 h(
                     'h4',
                     null,
-                    'RESN ROLE'
+                    'ERARTA ROLE'
                 ),
                 h(
                     'p',
@@ -25701,7 +25701,7 @@ module.exports = function (props) {
                 h(
                     'h4',
                     null,
-                    'RESN ROLE'
+                    'ERARTA ROLE'
                 ),
                 h(
                     'p',
