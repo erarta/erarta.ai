@@ -53,7 +53,7 @@
                     "type": "headline",
                     "data": {
                         "title": "The Challenge",
-                        "body": "In 2019 alone, over 11,000 dolphins were killed as bycatch off the west coast of France. Our challenge was to shine a light on what bycatch really is: the brutal extermination of sea life."
+                        "body": "Your team has great ideas and visions. Like for each great idea you dream big and execute small. And Pandora is here to help you out decompose your ideas into actionable items so you will execute small and make your vision become reality step by step. It will provide automatically drafted plan with releases so you will know when you are done."
 					}
                 },
                 {
@@ -81,8 +81,8 @@
                 {
                     "type": "text",
                     "data": {
-                        "title": "A Tranquil Beginning",
-                        "body": "The experience begins with a beautiful sphere of water floating in front of you. A fishing boat cruises its surface. As you zoom in, you are transported to a pristine undersea world."
+                        "title": "Create New Program",
+                        "body": "Pandora experience begins with creating simple program. Program has the name, status, deadlines and estimation. But you can also add custom fields that are required by the program and you can also provide program types based on the dictionaries you made. So possibilies here are endless."
 					}
                 },
                 {
@@ -115,8 +115,8 @@
                 {
                     "type": "text",
                     "data": {
-                        "title": "A Deadly End",
-                        "body": "Floating in front of you is a dolphin struggling in a net. From every direction, you can hear the sounds of dolphins in distress. A fishing boat passes overhead and hauls the dolphins out of the water before dumping their dead bodies overboard. This is bycatch."
+                        "title": "Import issue tree from Jira",
+                        "body": "If you already have existing issues created in Jira for example, you can import single issue or the whole tree of issues from jira and these issues will be automatically converted into your local programs, already containing name, status and deadlines so you will be instantly good to go!"
 					}
                 },
                 {
@@ -149,8 +149,8 @@
                 {
                     "type": "text",
                     "data": {
-                        "title": "A Call to Action",
-                        "body": "To finish, a bold CTA invites you to donate to Sea Shepherd to help end dolphin slaughter. It doesn’t have to be this way, but the change starts on your plate."
+                        "title": "Release Plan",
+                        "body": "When you are done with the programs creation/import, deadlines and teams are set you can go ahead and make the plan based on your programs with our Autoplanner feature. Based on the deadlines and team capacity it will provide the configurable release plan that you can execute right away.",
 					}
                 },
                 {
@@ -178,15 +178,15 @@
                 {
                     "type": "headline",
                     "data": {
-                        "title": "Creating an Underwater Environment",
-                        "body": "Jelly allowed us to realistically render an underwater environment in real-time 3D. We used a combination of VFX techniques, such as volumetric lights, distance fog, caustics and micro-particles, to simulate real physical behaviours. We applied a similar approach to the sphere of water to create its ocean surface and water disturbance effects."
+                        "title": "Collaborative team work",
+                        "body": "There are some features to help your team work together such as program sharing. With this feature you can share access to your program and its configuration easily. Also after creating or importing programs you can prioritize them simply by dragging program up or down. To help you visualize your program structure and deadlines there is a Gantt chart for each program that will also help you resize programs or link them between each other."
 					}
                 },
                 {
                     "type": "headline",
                     "data": {
-                        "title": "AR Elements",
-                        "body": "Our simulated AR approach used the gyroscope to synchronise the position of the sphere of water with the user’s phone movements. To convincingly blend our 3D render with the user’s environment, we simulated light reflections on the water’s surface by extracting colors from the users camera feed. These techniques allowed us to appandorate an AR experience inside a mobile browser."
+                        "title": "Program Snapshots",
+                        "body": "Pandora helps you not only visualise your programs but to compare them against each other. This feature is called Snapshots. With Snapshots you can create copy of your existing program at any moment and then compare it with the current one which will help detect possible problems at the very early stages of your action plan"
 					}
                 }
             ]
