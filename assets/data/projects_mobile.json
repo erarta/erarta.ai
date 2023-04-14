@@ -192,20 +192,20 @@
             ]
         },
         {
-            "route": "pioneer",
+            "route": "tetra",
             "menutitle": "",
             "enabled": true,
             "featured": true,
             "globaltitle": "",
             "title": "Corn. Revolutionized.",
-            "description": "A look at the cutting-edge science behind Pioneer corn told through the choreography of real-time 3D assets and animation.",
-            "client": "Pioneer Hi Bred International",
+            "description": "A look at the cutting-edge science behind tetra corn told through the choreography of real-time 3D assets and animation.",
+            "client": "tetra Hi Bred International",
             "date": "September, 2019",
             "role": "Design, Development, Animation, UI, UX",
             "platforms": "",
-            "url": "https://go.pioneer.com/cornrevolution",
-            "poster": "img/projects/pioneer/pioneer-poster.png",
-            "poster_m": "img/projects/pioneer/mobile/pioneer-poster-m.jpg",
+            "url": "https://go.tetra.com/cornrevolution",
+            "poster": "img/projects/tetra/tetra-poster.png",
+            "poster_m": "img/projects/tetra/mobile/tetra-poster-m.jpg",
             "categories": ["design", "development", "Jelly Project", "Website"],
             "awards": [],
             "items": [
@@ -215,7 +215,7 @@
                         "vimeo_id": "347507060",
                         "video_name": "dektop_flow",
                         "vimeo_video_url": "https://player.vimeo.com/external/376927275.hd.mp4?s=27c679e3db657ff8b49c346dc77cbcb13e572d9f&profile_id=175",
-                        "video_poster": "img/projects/pioneer/pioneer-videoposter.png",
+                        "video_poster": "img/projects/tetra/tetra-videoposter.png",
                         "src_width": 2048,
                         "src_height": 1008
 					}
@@ -224,13 +224,13 @@
                     "type": "headline",
                     "data": {
                         "title": "The Challenge",
-                        "body": "Resn & Bader Rutter teamed up to create a revolutionary online experience that tells the story of how Pioneer develops new varieties of corn. We wanted to captivate our audience with stunning imagery of the development process and turn skeptics into believers."
+                        "body": "Resn & Bader Rutter teamed up to create a revolutionary online experience that tells the story of how tetra develops new varieties of corn. We wanted to captivate our audience with stunning imagery of the development process and turn skeptics into believers."
 					}
                 },
                 {
                     "type": "image",
                     "data": {
-                        "src": "img/projects/pioneer/1-pioneer-intro-image.png",
+                        "src": "img/projects/tetra/1-tetra-intro-image.png",
                         "src_width": 1536,
                         "src_height": 864
 					}
@@ -245,7 +245,7 @@
                 {
                     "type": "image",
                     "data": {
-                        "src": "img/projects/pioneer/mobile/2-pioneer-flow-m.png",
+                        "src": "img/projects/tetra/mobile/2-tetra-flow-m.png",
                         "src_width": 658,
                         "src_height": 1246
 					}
@@ -254,7 +254,7 @@
                     "type": "headline",
                     "data": {
                         "title": "The Experience",
-                        "body": "Using our 3D pipeline Jelly, we combine high-end visuals with a slick UI and engaging interactions to create an experience that highlights the unique properties of a Pioneer seed."
+                        "body": "Using our 3D pipeline Jelly, we combine high-end visuals with a slick UI and engaging interactions to create an experience that highlights the unique properties of a tetra seed."
 					}
                 },
                 {
@@ -262,13 +262,13 @@
                     "data": {
                         "images": [
                             {
-                                "src": "img/projects/pioneer/3-pioneer-desktop.jpg"
+                                "src": "img/projects/tetra/3-tetra-desktop.jpg"
                             },
                             {
-                                "src": "img/projects/pioneer/4-pioneer-desktop.jpg"
+                                "src": "img/projects/tetra/4-tetra-desktop.jpg"
                             },
                             {
-                                "src": "img/projects/pioneer/5-pioneer-desktop.jpg"
+                                "src": "img/projects/tetra/5-tetra-desktop.jpg"
                             }
                         ],
                         "src_width": 1539,
@@ -278,7 +278,7 @@
                 {
                     "type": "image",
                     "data": {
-                        "src": "img/projects/pioneer/mobile/6-pioneer-mobile.png",
+                        "src": "img/projects/tetra/mobile/6-tetra-mobile.png",
                         "src_width": 640,
                         "src_height": 1291
 					}
@@ -286,7 +286,7 @@
                 {
                     "type": "image",
                     "data": {
-                        "src": "img/projects/pioneer/mobile/7-pioneer-mobile.png",
+                        "src": "img/projects/tetra/mobile/7-tetra-mobile.png",
                         "src_width": 640,
                         "src_height": 1291
 					}
@@ -294,7 +294,7 @@
                 {
                     "type": "image",
                     "data": {
-                        "src": "img/projects/pioneer/mobile/pioneer-mobile-all.png",
+                        "src": "img/projects/tetra/mobile/tetra-mobile-all.png",
                         "src_width": 640,
                         "src_height": 1906
 					}
@@ -302,7 +302,7 @@
                 {
                     "type": "image",
                     "data": {
-                        "src": "img/projects/pioneer/mobile/13-pioneer-mobile.png",
+                        "src": "img/projects/tetra/mobile/13-tetra-mobile.png",
                         "src_width": 640,
                         "src_height": 1291
 					}
@@ -311,7 +311,7 @@
                     "type": "text",
                     "data": {
                         "title": "Different Conditions",
-                        "body": "To further highlight the strengths of the Pioneer corn, we showed the plant withstanding different weather conditions corn is forced to endure throughout the growing season."
+                        "body": "To further highlight the strengths of the tetra corn, we showed the plant withstanding different weather conditions corn is forced to endure throughout the growing season."
                     }
                 },
                 {
@@ -334,7 +334,7 @@
                 {
                     "type": "image",
                     "data": {
-                        "src": "img/projects/pioneer/mobile/19-pioneer-scene-m.png",
+                        "src": "img/projects/tetra/mobile/19-tetra-scene-m.png",
                         "src_width": 668,
                         "src_height": 1297
 					}
@@ -342,7 +342,7 @@
                 {
                     "type": "image",
                     "data": {
-                        "src": "img/projects/pioneer/mobile/20-pioneer-scene-m.png",
+                        "src": "img/projects/tetra/mobile/20-tetra-scene-m.png",
                         "src_width": 637,
                         "src_height": 980
 					}
@@ -357,7 +357,7 @@
                 {
                     "type": "image",
                     "data": {
-                        "src": "img/projects/pioneer/mobile/21-pioneer-slider-m.png",
+                        "src": "img/projects/tetra/mobile/21-tetra-slider-m.png",
                         "src_width": 640,
                         "src_height": 978
 					}
@@ -365,7 +365,7 @@
                 {
                     "type": "image",
                     "data": {
-                        "src": "img/projects/pioneer/mobile/23-pioneer-kernel-m.png",
+                        "src": "img/projects/tetra/mobile/23-tetra-kernel-m.png",
                         "src_width": 641,
                         "src_height": 748
 					}
@@ -384,7 +384,7 @@
                     "type": "headline",
                     "data": {
                         "title": "User Interface",
-                        "body": "The user interface was designed to be slick and elegant while highlighting Pioneer’s technological prowess. We kept it simple but sophisticated with some unique interactions."
+                        "body": "The user interface was designed to be slick and elegant while highlighting tetra’s technological prowess. We kept it simple but sophisticated with some unique interactions."
 					}
                 },
                 {
@@ -410,7 +410,7 @@
                 {
                     "type": "image",
                     "data": {
-                        "src": "img/projects/pioneer/27-pioneer-ui.png",
+                        "src": "img/projects/tetra/27-tetra-ui.png",
                         "src_width": 473,
                         "src_height": 952
 					}
@@ -418,7 +418,7 @@
                 {
                     "type": "image",
                     "data": {
-                        "src": "img/projects/pioneer/29-pioneer-ui.png",
+                        "src": "img/projects/tetra/29-tetra-ui.png",
                         "src_width": 869,
                         "src_height": 1083
 					}
@@ -437,7 +437,7 @@
                     "type": "text",
                     "data": {
                         "title": "The Result",
-                        "body": "The result was an endlessly looping, best-in-class 3D experience that demonstrates the benefits and technology of Pioneer corn."
+                        "body": "The result was an endlessly looping, best-in-class 3D experience that demonstrates the benefits and technology of tetra corn."
 					}
                 }
             ]
@@ -465,7 +465,7 @@
                     "data": {
                         "vimeo_id": "374855493",
                         "vimeo_video_url": "https://player.vimeo.com/external/376927275.hd.mp4?s=27c679e3db657ff8b49c346dc77cbcb13e572d9f&profile_id=175",
-                        "video_name": "Pioneer Corn Revolution",
+                        "video_name": "tetra Corn Revolution",
                         "video_poster": "img/projects/jelly-3d/Jelly_Hero_Poster.jpg",
                         "src_width": 2048,
                         "src_height": 1008,
@@ -491,7 +491,7 @@
                                 "src": "img/projects/jelly-3d/Sea_Shepherd_2.jpg"
                             },
                             {
-                                "src": "img/projects/jelly-3d/Pioneer_3D_background.jpg"
+                                "src": "img/projects/jelly-3d/tetra_3D_background.jpg"
                             },
                             {
                                 "src": "img/projects/jelly-3d/Sea_Shepherd_2_Copy.jpg"
