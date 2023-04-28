@@ -239,21 +239,21 @@
             ]
         },
         {
-            "route": "pioneer",
+            "route": "tetra",
             "menutitle": "",
             "enabled": true,
             "featured": true,
             "globaltitle": "",
-            "title": "Corn. Revolutionized.",
-            "description": "A look at the cutting-edge science behind Pioneer corn told through the choreography of real-time 3D assets and animation.",
-            "client": "Pioneer Hi Bred International",
-            "date": "September, 2019",
+            "title": "Image Resizing. Revolutionezed.",
+            "description": "A look at the cutting-edge media processor - Tetra.",
+            "client": "ERARTA",
+            "date": "September, 2020",
             "role": "Design, Development, Animation, UI, UX",
             "platforms": "",
-            "url": "https://go.pioneer.com/cornrevolution",
-            "poster": "img/projects/pioneer/pioneer-poster.png",
-            "poster_m": "img/projects/pioneer/pioneer-poster-m.jpg",
-            "categories": ["design", "development", "Jelly Project", "Website"],
+            "url": "https://tetra.erarta.ai",
+            "poster": "img/projects/tetra/tetra-poster.png",
+            "poster_m": "img/projects/tetra/tetra-poster-m.jpg",
+            "categories": ["design", "development", "Website"],
             "awards": [],
             "items": [
                 {
@@ -261,8 +261,8 @@
                     "data": {
                         "vimeo_id": "376927275",
                         "video_name": "dektop_flow",
-                        "vimeo_video_url": "https://player.vimeo.com/external/376927275.hd.mp4?s=27c679e3db657ff8b49c346dc77cbcb13e572d9f&profile_id=175",
-                        "video_poster": "img/projects/pioneer/pioneer-videoposter.png",
+                        "vimeo_video_url": "assets/video/projects/tetra/media-processor-demo.mp4",
+                        "video_poster": "img/projects/tetra/tetra-videoposter.png",
                         "src_width": 2048,
                         "src_height": 1008,
                         "width_columns": 8,
@@ -274,14 +274,14 @@
                     "type": "headline",
                     "data": {
                         "title": "The Challenge",
-                        "body": "Resn & Bader Rutter teamed up to create a revolutionary online experience that tells the story of how Pioneer develops new varieties of corn. We wanted to captivate our audience with stunning imagery of the development process and turn skeptics into believers.",
+                        "body": "This is era of images and videos. Thousands of images flow back and forth appearing on the websites, social media and ads. But each platform has its own rules and dimensions to host media. And sometimes you want to take just the fraction of the image to place it online. Tetra helps you to solve this.",
                         "top_offset": 120
                     }
                 },
                 {
                     "type": "image",
                     "data": {
-                        "src": "img/projects/pioneer/1-pioneer-intro-image.png",
+                        "src": "img/projects/tetra/1-tetra-intro-image.png",
                         "src_width": 1536,
                         "src_height": 864,
                         "width_columns": 8,
@@ -293,39 +293,27 @@
                 {
                     "type": "text",
                     "data": {
-                        "title": "A life cycle",
-                        "body": "We wrapped experience in an infinite loop to represent the cycle of nature—from seed to plant and back to seed again—with some data and DNA added along the way.",
+                        "title": "Processing life cycle",
+                        "body": "It all starts with uploading the image of your choice. Next you select the type of template for your image dimenstions.",
                         "top_offset": 112
                     }
                 },
                 {
                     "type": "image",
                     "data": {
-                        "src": "img/projects/pioneer/2-pioneer-flow.png",
-                        "src_width": 1083,
-                        "src_height": 2051,
-                        "width_columns": 4.5,
-                        "left_columns": 2,
-                        "top_offset": 138
-                    }
-                },
-                {
-                    "type": "image",
-                    "data": {
-                        "src": "img/projects/pioneer/1-pioneer-bg-particles.png",
-                        "src_width": 2304,
-                        "src_height": 2304,
+                        "src": "img/projects/tetra/2-tetra-flow.png",
+                        "src_width": 1753,
+                        "src_height": 1216,
                         "width_columns": 8,
                         "left_columns": 0,
-                        "z_index": 1,
-                        "top_offset": -940
+                        "top_offset": 138
                     }
                 },
                 {
                     "type": "headline",
                     "data": {
-                        "title": "The Experience",
-                        "body": "Using our 3D pipeline Jelly, we combine high-end visuals with a slick UI and engaging interactions to create an experience that highlights the unique properties of a Pioneer seed.",
+                        "title": "Crop, Preview, Process",
+                        "body": "After selecting template type you are able to crop the image, preview it, process and get the result",
                         "top_offset": 120
                     }
                 },
@@ -334,13 +322,13 @@
                     "data": {
                         "images": [
                             {
-                                "src": "img/projects/pioneer/3-pioneer-desktop.jpg"
+                                "src": "img/projects/tetra/3-tetra-desktop.jpg"
                             },
                             {
-                                "src": "img/projects/pioneer/4-pioneer-desktop.jpg"
+                                "src": "img/projects/tetra/4-tetra-desktop.jpg"
                             },
                             {
-                                "src": "img/projects/pioneer/5-pioneer-desktop.jpg"
+                                "src": "img/projects/tetra/5-tetra-desktop.jpg"
                             }
                         ],
                         "src_width": 1539,
@@ -353,7 +341,7 @@
                 {
                     "type": "image",
                     "data": {
-                        "src": "img/projects/pioneer/6-pioneer-mobile.png",
+                        "src": "img/projects/tetra/6-tetra-mobile.png",
                         "src_width": 473,
                         "src_height": 952,
                         "width_columns": 2.25,
@@ -364,7 +352,7 @@
                 {
                     "type": "image",
                     "data": {
-                        "src": "img/projects/pioneer/7-pioneer-mobile.png",
+                        "src": "img/projects/tetra/7-tetra-mobile.png",
                         "src_width": 473,
                         "src_height": 952,
                         "width_columns": 2.25,
@@ -375,7 +363,7 @@
                 {
                     "type": "image",
                     "data": {
-                        "src": "img/projects/pioneer/8-pioneer-mobile.png",
+                        "src": "img/projects/tetra/8-tetra-mobile.png",
                         "src_width": 473,
                         "src_height": 952,
                         "width_columns": 2.25,
@@ -386,7 +374,7 @@
                 {
                     "type": "image",
                     "data": {
-                        "src": "img/projects/pioneer/9-pioneer-mobile.png",
+                        "src": "img/projects/tetra/9-tetra-mobile.png",
                         "src_width": 473,
                         "src_height": 952,
                         "width_columns": 2.25,
@@ -397,7 +385,7 @@
                 {
                     "type": "image",
                     "data": {
-                        "src": "img/projects/pioneer/10-pioneer-mobile.png",
+                        "src": "img/projects/tetra/10-tetra-mobile.png",
                         "src_width": 473,
                         "src_height": 952,
                         "width_columns": 2.25,
@@ -408,7 +396,7 @@
                 {
                     "type": "image",
                     "data": {
-                        "src": "img/projects/pioneer/11-pioneer-mobile.png",
+                        "src": "img/projects/tetra/11-tetra-mobile.png",
                         "src_width": 473,
                         "src_height": 952,
                         "width_columns": 2.25,
@@ -419,7 +407,7 @@
                 {
                     "type": "image",
                     "data": {
-                        "src": "img/projects/pioneer/12-pioneer-mobile.png",
+                        "src": "img/projects/tetra/12-tetra-mobile.png",
                         "src_width": 473,
                         "src_height": 952,
                         "width_columns": 2.25,
@@ -430,30 +418,19 @@
                 {
                     "type": "image",
                     "data": {
-                        "src": "img/projects/pioneer/13-pioneer-mobile.png",
+                        "src": "img/projects/tetra/13-tetra-mobile.png",
                         "src_width": 473,
                         "src_height": 952,
                         "width_columns": 2.25,
                         "left_columns": 2.875,
-                        "top_offset": -580
-                    }
-                },
-                {
-                    "type": "image",
-                    "data": {
-                        "src": "img/projects/pioneer/14-pioneer-mobile.png",
-                        "src_width": 473,
-                        "src_height": 952,
-                        "width_columns": 2.25,
-                        "left_columns": 5.75,
                         "top_offset": -580
                     }
                 },
                 {
                     "type": "text",
                     "data": {
-                        "title": "Different Conditions",
-                        "body": "To further highlight the strengths of the Pioneer corn, we showed the plant withstanding different weather conditions corn is forced to endure throughout the growing season. ",
+                        "title": "Result",
+                        "body": "Use result JSON as the source for cut and cropped image and place it immideately on your website",
                         "top_offset": 260
                     }
                 },
@@ -461,670 +438,13 @@
                     "type": "videoloop",
                     "data": {
                         "vimeo_id": "348555180",
-                        "video_name": "weather-conditions",
-                        "vimeo_video_url": "https://player.vimeo.com/external/348555180.hd.mp4?s=f91e3b1d358414a8a89d5769994f87e3d85aac1c&profile_id=169",
+                        "video_name": "media-processor",
+                        "vimeo_video_url": "assets/video/projects/tetra/media-processor-demo-trimmed.mp4",
                         "src_width": 1280,
                         "src_height": 720,
                         "width_columns": 8,
                         "left_columns": 0,
                         "top_offset": 190
-                    }
-                },
-                {
-                    "type": "headline",
-                    "data": {
-                        "title": "Scenes in Jelly",
-                        "body": "Our Jelly pipeline allowed us to compose stunning animated scenes that combine 2D assets, 3D models and interactive elements without forcing users to endure long load\u00A0times.",
-                        "top_offset": 120
-                    }
-                },
-                {
-                    "type": "image",
-                    "data": {
-                        "src": "img/projects/pioneer/16-pioneer-scene.png",
-                        "src_width": 440,
-                        "src_height": 845,
-                        "width_columns": 2.25,
-                        "left_columns": 0,
-                        "top_offset": 120
-                    }
-                },
-                {
-                    "type": "image",
-                    "data": {
-                        "src": "img/projects/pioneer/17-pioneer-scene.png",
-                        "src_width": 440,
-                        "src_height": 845,
-                        "width_columns": 2.25,
-                        "left_columns": 2,
-                        "z_index": 1,
-                        "top_offset": -445
-                    }
-                },
-                {
-                    "type": "image",
-                    "data": {
-                        "src": "img/projects/pioneer/18-pioneer-scene.png",
-                        "src_width": 440,
-                        "src_height": 845,
-                        "width_columns": 2.25,
-                        "left_columns": 4,
-                        "z_index": 100,
-                        "top_offset": -445
-                    }
-                },
-                {
-                    "type": "image",
-                    "data": {
-                        "src": "img/projects/pioneer/19-pioneer-scene.png",
-                        "src_width": 440,
-                        "src_height": 845,
-                        "width_columns": 2.25,
-                        "left_columns": 6,
-                        "z_index": 200,
-                        "top_offset": -445
-                    }
-                },
-                {
-                    "type": "image",
-                    "data": {
-                        "src": "img/projects/pioneer/20-pioneer-scene.png",
-                        "src_width": 1546,
-                        "src_height": 948,
-                        "width_columns": 8,
-                        "left_columns": 0,
-                        "z_index": 300,
-                        "top_offset": 120
-                    }
-                },
-
-                {
-                    "type": "text",
-                    "data": {
-                        "title": "3D Projection mapping",
-                        "body": "By projecting high-level textures onto simplified 3D meshes we could give the sense of fully immersive 3D while still keeping it light on the CPU.",
-                        "top_offset": 195
-                    }
-                },
-                {
-                    "type": "mask",
-                    "data": {
-                        "media": [
-                            {
-                                "src": "img/projects/pioneer/21-pioneer-slider.png",
-                                "description": ""
-                            },
-                            {
-                                "src": "img/projects/pioneer/22-pioneer-slider.png",
-                                "description": ""
-                            }
-                        ],
-                        "type": "image",
-                        "direction": "vertical",
-                        "src_width": 1536,
-                        "src_height": 978,
-                        "width_columns": 8,
-                        "left_columns": 0,
-                        "top_offset": 120
-                    }
-                },
-                {
-                    "type": "image",
-                    "data": {
-                        "src": "img/projects/pioneer/22-pioneer-kernel.png",
-                        "src_width": 590,
-                        "src_height": 509,
-                        "width_columns": 3,
-                        "left_columns": 0,
-                        "top_offset": 120
-                    }
-                },
-                {
-                    "type": "image",
-                    "data": {
-                        "src": "img/projects/pioneer/23-pioneer-kernel.png",
-                        "src_width": 812,
-                        "src_height": 510,
-                        "width_columns": 4,
-                        "left_columns": 4,
-                        "z_index": 1,
-                        "top_offset": -120
-                    }
-                },
-                {
-                    "type": "videoloop",
-                    "data": {
-                        "vimeo_id": "348579113",
-                        "video_name": "matcap",
-                        "vimeo_video_url": "https://player.vimeo.com/external/348579113.sd.mp4?s=b558a14376bca9ee5ac6ca5d07162978fad660de&profile_id=165",
-                        "src_width": 800,
-                        "src_height": 800,
-                        "width_columns": 3,
-                        "left_columns": 3,
-                        "z_index": 99,
-                        "top_offset": -100
-                    }
-                },
-                {
-                    "type": "image",
-                    "data": {
-                        "src": "img/projects/pioneer/2-pioneer-bg-particles.png",
-                        "src_width": 2304,
-                        "src_height": 2304,
-                        "width_columns": 8,
-                        "left_columns": 0,
-                        "z_index": 1,
-                        "top_offset": -840
-                    }
-                },
-                {
-                    "type": "headline",
-                    "data": {
-                        "title": "User Interface",
-                        "body": "The user interface was designed to be slick and elegant while highlighting Pioneer’s technological prowess. We kept it simple but sophisticated with some unique interactions.",
-                        "top_offset": 120
-                    }
-                },
-                {
-                    "type": "videoloop",
-                    "data": {
-                        "vimeo_id": "348588793",
-                        "video_name": "ui",
-                        "vimeo_video_url": "https://player.vimeo.com/external/348588793.hd.mp4?s=cae9ca6b3266d9ff6c7be04a5d1a79018ab01fa6&profile_id=174",
-                        "src_width": 1920,
-                        "src_height": 1080,
-                        "width_columns": 5,
-                        "left_columns": 3,
-                        "top_offset": 120
-                    }
-                },
-                {
-                    "type": "videoloop",
-                    "data": {
-                        "vimeo_id": "348584109",
-                        "video_name": "ui-icons",
-                        "vimeo_video_url": "https://player.vimeo.com/external/348584109.hd.mp4?s=ff0fdcc2e497babe8e5e01474071a03202fef418&profile_id=169",
-                        "src_width": 1920,
-                        "src_height": 1080,
-                        "width_columns": 5,
-                        "left_columns": 0,
-                        "top_offset": -100
-                    }
-                },
-                {
-                    "type": "image",
-                    "data": {
-                        "src": "img/projects/pioneer/27-pioneer-ui.png",
-                        "src_width": 473,
-                        "src_height": 952,
-                        "width_columns": 2.5,
-                        "left_columns": 0,
-                        "z_index": 1,
-                        "top_offset": 120
-                    }
-                },
-                {
-                    "type": "image",
-                    "data": {
-                        "src": "img/projects/pioneer/29-pioneer-ui.png",
-                        "src_width": 869,
-                        "src_height": 1083,
-                        "width_columns": 3.5,
-                        "left_columns": 4,
-                        "z_index": 1,
-                        "top_offset": -520
-                    }
-                },
-                {
-                    "type": "videoloop",
-                    "data": {
-                        "vimeo_id": "348586326",
-                        "video_name": "ui-kernel",
-                        "vimeo_video_url": "https://player.vimeo.com/external/348586326.hd.mp4?s=c1d76d519907c37e60ea9223c3f3df25ed8d25a0&profile_id=174",
-                        "src_width": 827,
-                        "src_height": 1628,
-                        "width_columns": 2.5,
-                        "left_columns": 3,
-                        "z_index": 100,
-                        "top_offset": -120
-                    }
-                },
-
-                {
-                    "type": "text",
-                    "data": {
-                        "title": "The Result",
-                        "body": "The result was an endlessly looping, best-in-class 3D experience that demonstrates the benefits and technology of Pioneer corn.",
-                        "top_offset": 155
-                    }
-                }
-            ]
-        },
-        {
-            "route": "jelly-3d",
-            "menutitle": "",
-            "enabled": true,
-            "featured": true,
-            "globaltitle": "",
-            "title": "Jelly - Realtime 3D Pipeline",
-            "description": "Jelly is Resn’s Web3D pipeline: our in-house production and development methodology that allows us to deliver premium real-time 3D that fits your budget.",
-            "client": "Various",
-            "date": "Dec, 2019",
-            "role": "Developer",
-            "platforms": "",
-            "url": "",
-            "poster": "img/projects/jelly-3d/Jelly_Hero_Poster1.jpg",
-            "poster_m": "img/projects/jelly-3d/Jelly_Hero_Poster_Mobile.jpg",
-            "categories": [],
-            "awards": [],
-            "items": [
-                {
-                    "type": "video",
-                    "data": {
-                        "vimeo_id": "374855493",
-                        "vimeo_video_url": "https://player.vimeo.com/external/376927275.hd.mp4?s=27c679e3db657ff8b49c346dc77cbcb13e572d9f&profile_id=175",
-                        "video_name": "Pioneer Corn Revolution",
-                        "video_poster": "img/projects/jelly-3d/Jelly_Hero_Poster.jpg",
-                        "src_width": 2048,
-                        "src_height": 1008,
-                        "width_columns": 8,
-                        "left_columns": 0,
-                        "top_offset": 120
-                    }
-                },
-                {
-                    "type": "text",
-                    "data": {
-                        "title": "Blazing Trails",
-                        "body": "Jelly propels real-time 3D into the future. Over the last 10 years, we’ve built the framework and capabilities that allow us to achieve a level of quality and performance that wasn’t thought possible—until now.",
-                        "top_offset": 120
-                    }
-                },
-                {
-                    "type": "carousel",
-                    "data": {
-                        "images": [
-                            {
-                                "src": "img/projects/jelly-3d/Corn_Revolution_1.jpg"
-                            },
-                            {
-                                "src": "img/projects/jelly-3d/Sea_Shepherd_2.jpg"
-                            },
-                            {
-                                "src": "img/projects/jelly-3d/Pioneer_3D_background.jpg"
-                            },
-                            {
-                                "src": "img/projects/jelly-3d/Sea_Shepherd_2_Copy.jpg"
-                            },
-                            {
-                                "src": "img/projects/jelly-3d/Corn_Revolution_2.jpg"
-                            },
-                            {
-                                "src": "img/projects/jelly-3d/Corn_Revolution_3.jpg"
-                            }
-                        ],
-                        "src_width": 3450,
-                        "src_height": 2160,
-                        "width_columns": 8,
-                        "left_columns": 0,
-                        "top_offset": 120
-                    }
-                },
-                {
-                    "type": "videoloop",
-                    "data": {
-                        "vimeo_id": "341749708",
-                        "vimeo_video_url": "https://player.vimeo.com/external/341749708.hd.mp4?s=7952d012161216059236feffdbbcd65faebad182&profile_id=174",
-                        "video_name": "adidas-loop-particleshoe",
-                        "src_width": 1280,
-                        "src_height": 720,
-                        "width_columns": 5,
-                        "left_columns": 3,
-                        "top_offset": 120,
-                        "z_index": 2
-                    }
-                },
-                {
-                    "type": "videoloop",
-                    "data": {
-                        "vimeo_id": "341749737",
-                        "vimeo_video_url": "https://player.vimeo.com/external/341749737.hd.mp4?s=1ad9db4aa24f9e572ae6a9468254335adccd4145&profile_id=174",
-                        "video_name": "adidas-loop-process",
-                        "src_width": 1280,
-                        "src_height": 720,
-                        "width_columns": 5,
-                        "left_columns": 0,
-                        "top_offset": -80,
-                        "z_index": 1
-                    }
-                },
-                {
-                    "type": "text",
-                    "data": {
-                        "title": "Superior Quality",
-                        "body": "Jelly can achieve unparalleled photorealism with convincing depth of field, dynamic lighting and thousands of animated particles. And we do it while maintaining consistent stroke widths and smooth edges regardless of screen size or pixel density.",
-                        "top_offset": 120
-                    }
-                },
-                {
-                    "type": "headline",
-                    "data": {
-                        "title": "In short, Jelly delivers the highest-quality Web3D out there.",
-                        "body": "",
-                        "top_offset": 120
-                    }
-                },
-                {
-                    "type": "videoloop",
-                    "data": {
-                        "vimeo_id": "333050250",
-                        "vimeo_video_url": "https://player.vimeo.com/external/333050250.sd.mp4?s=5ab02e2aef9aae36652b05abc8dfd26dd5d3a8d1&profile_id=165",
-                        "video_name": "kekubian-scene-street",
-                        "src_width": 372,
-                        "src_height": 666,
-                        "width_columns": 2.5,
-                        "left_columns": 0,
-                        "top_offset": 120,
-                        "z_index": 1
-                    }
-                },
-                {
-                    "type": "videoloop",
-                    "data": {
-                        "vimeo_id": "333052313",
-                        "vimeo_video_url": "https://player.vimeo.com/external/333052313.sd.mp4?s=e29f93bc118acb6c6647f22defd2abcf66937ed8&profile_id=165",
-                        "video_name": "kekubian-scene-park",
-                        "src_width": 372,
-                        "src_height": 666,
-                        "width_columns": 2.5,
-                        "left_columns": 2.75,
-                        "top_offset": -572,
-                        "z_index": 3
-                    }
-                },
-                {
-                    "type": "videoloop",
-                    "data": {
-                        "vimeo_id": "333052349",
-                        "vimeo_video_url": "https://player.vimeo.com/external/333052349.sd.mp4?s=56f7e3a3c95e82e97d6857bdb436d6c2e7c16b6f&profile_id=165",
-                        "video_name": "kekubian-scene-shop",
-                        "src_width": 372,
-                        "src_height": 666,
-                        "width_columns": 2.5,
-                        "left_columns": 5.5,
-                        "top_offset": -572,
-                        "z_index": 2
-                    }
-                },
-                {
-                    "type": "text",
-                    "data": {
-                        "title": "Lower Overhead",
-                        "body": "Jelly’s pipeline is robust and efficient, enabling Resn’s experienced developers to navigate complex workflows with ease. Compared to similar offerings, Jelly means lower overheads and shortened production schedules.",
-                        "top_offset": 120
-                    }
-                },
-                {
-                    "type": "headline",
-                    "data": {
-                        "title": "With Jelly, you get more for less.",
-                        "body": "",
-                        "top_offset": 120
-                    }
-                },
-                {
-                    "type": "image",
-                    "data": {
-                        "src": "img/projects/kekubian-assassin/kekubian-7.png",
-                        "src_width": 549,
-                        "src_height": 760,
-                        "width_columns": 1.4,
-                        "left_columns": 0,
-                        "top_offset": 120,
-                        "z_index": 2
-                    }
-                },
-                {
-                    "type": "image",
-                    "data": {
-                        "src": "img/projects/kekubian-assassin/kekubian-8.png",
-                        "src_width": 543,
-                        "src_height": 920,
-                        "width_columns": 3,
-                        "left_columns": 2,
-                        "top_offset": -150,
-                        "z_index": 3
-                    }
-                },
-                {
-                    "type": "image",
-                    "data": {
-                        "src": "img/projects/kekubian-assassin/kekubian-9.png",
-                        "src_width": 443,
-                        "src_height": 934,
-                        "width_columns": 2.1,
-                        "left_columns": 5.9,
-                        "top_offset": -850,
-                        "z_index": 1
-                    }
-                },
-                {
-                    "type": "text",
-                    "data": {
-                        "title": "Unparalleled Performance",
-                        "body": "Jelly delivers a premium-quality result without sacrificing performance. We minimize render passes and draw calls with optimized techniques, such as combining high-res 3D assets with baked-in visual effects, to produce superior results with minimal load times.",
-                        "top_offset": 420
-                    }
-                },
-                {
-                    "type": "headline",
-                    "data": {
-                        "title": "With Jelly, you won’t lose their attention.",
-                        "body": "",
-                        "top_offset": 120
-                    }
-                },
-                {
-                    "type": "text",
-                    "data": {
-                        "title": "AR Ready",
-                        "body": "The field of WebAR is in its infancy, but the possibilities are incredibly exciting. We’ve developed our own AR workflow, JellyJAR, and we’ve already achieved some amazing results.",
-                        "top_offset": 120
-                    }
-                },
-                {
-                    "type": "videoloop",
-                    "data": {
-                        "vimeo_id": "274711257",
-                        "vimeo_video_url": "https://player.vimeo.com/external/274711257.hd.mp4?s=8b982d429c51607a9ed5ee46afe7266e695549c9&profile_id=175",
-                        "video_name": "interactive-shoe",
-                        "video_poster": "img/projects/interactive-shoe/interactive-shoe-video.jpg",
-                        "src_width": 1280,
-                        "src_height": 720,
-                        "width_columns": 8,
-                        "left_columns": 0,
-                        "top_offset": 120
-                    }
-                },
-                {
-                    "type": "text",
-                    "data": {
-                        "title": "Turntable - Product Explorer",
-                        "body": "",
-                        "top_offset": 120
-                    }
-                },
-              {
-                "type": "list",
-                "data": {
-                  "items": [
-                    {
-                      "text": "Customers explore unique product features."
-                    },
-                    {
-                      "text": "Turn, examine, play and familiarize."
-                    },
-                    {
-                      "text": "Interactions enhance customer experience for deeper understanding and connection."
-                    },
-                    {
-                      "text": "Provide instantaneous and accurate quotes."
-                    }
-                  ],
-                  "top_offset": -48
-                }
-              },
-                {
-                    "type": "video",
-                    "data": {
-                        "vimeo_id": "165951750",
-                        "vimeo_video_url": "https://player.vimeo.com/external/165951750.hd.mp4?s=5c52481d2a79c48383cdd4314b0ddc284248152c&profile_id=174",
-                        "video_name": "evinrude etec g2",
-                        "video_poster": "img/projects/evinrude-etec-g2/evinrude-etec-g2-video.jpg",
-                        "src_width": 1280,
-                        "src_height": 720,
-                        "width_columns": 8,
-                        "left_columns": 0,
-                        "top_offset": 120
-                    }
-                },
-                {
-                    "type": "text",
-                    "data": {
-                        "title": "Jelly Mould - Customize and Configure",
-                        "body": "",
-                        "top_offset": 120
-                    }
-                },
-                {
-                    "type": "list",
-                    "data": {
-                        "items": [
-                            {
-                                "text": "Customers build personalized products online, with instant\u00A0visualization."
-                            },
-                            {
-                                "text": "Change colors, materials, and specifications."
-                            },
-                            {
-                                "text": "eCommerce integration."
-                            },
-                            {
-                                "text": "Provide instantaneous and accurate quotes."
-                            }
-                        ],
-                        "top_offset": -48
-                    }
-                },
-                {
-                    "type": "carousel",
-                    "data": {
-                        "images": [
-                            {
-                                "src": "img/projects/jelly-3d/1_FutureCraft4D.jpg"
-                            },
-                            { "src": "img/projects/jelly-3d/2_ZoomAR_01.jpg" },
-                            { "src": "img/projects/jelly-3d/3_ZoomAR_06.jpg" },
-                            { "src": "img/projects/jelly-3d/4_ZoomAR_07.jpg" }
-                        ],
-                        "src_width": 3840,
-                        "src_height": 2160,
-                        "width_columns": 8,
-                        "left_columns": 0,
-                        "top_offset": 120
-                    }
-                },
-                {
-                    "type": "text",
-                    "data": {
-                        "title": "Zoom - Z-Depth Explorer",
-                        "body": "",
-                        "top_offset": 120
-                    }
-                },
-                {
-                    "type": "list",
-                    "data": {
-                        "items": [
-                            {
-                                "text": "JellyJAR experience reveals product features using Z-Depth\u00A0movement."
-                            },
-                            {
-                                "text": "Explore complex or technical products by layering information\u00A0intuitively."
-                            },
-                            {
-                                "text": "Customers connect with the product through engaging AR\u00A0interactions."
-                            }
-                        ],
-                        "top_offset": -26
-                    }
-                },
-                {
-                    "type": "videoloop",
-                    "data": {
-                        "vimeo_id": "307535710",
-                        "vimeo_video_url": "https://player.vimeo.com/external/307535710.hd.mp4?s=e031950001ecd8bba678591457a1f252e9554e5d&profile_id=174",
-                        "video_name": "bandito-intro",
-                        "src_width": 1280,
-                        "src_height": 720,
-                        "width_columns": 5,
-                        "left_columns": 3,
-                        "top_offset": 120,
-                        "z_index": 4
-                    }
-                },
-                {
-                    "type": "videoloop",
-                    "data": {
-                        "vimeo_id": "307659814",
-                        "vimeo_video_url": "https://player.vimeo.com/external/307659814.hd.mp4?s=e073015566ddf949a05ac8969bc086eec150feab&profile_id=169",
-                        "video_name": "dema-transition",
-                        "src_width": 1280,
-                        "src_height": 720,
-                        "width_columns": 5,
-                        "left_columns": 0,
-                        "top_offset": -80,
-                        "z_index": 1
-                    }
-                },
-                {
-                    "type": "text",
-                    "data": {
-                        "title": "Additional Jelly Services",
-                        "body": "",
-                        "top_offset": 120
-                    }
-                },
-                {
-                    "type": "list",
-                    "data": {
-                        "items": [
-                            {
-                                "text": "3D modelling"
-                            },
-                            {
-                                "text": "Animation"
-                            },
-                            {
-                                "text": "Shaders"
-                            },
-                            {
-                                "text": "Lighting and textures"
-                            },
-                            {
-                                "text": "Colour grading"
-                            },
-                            {
-                                "text": "Post effects"
-                            },
-                            {
-                                "text": "Dynamic and reactive VFX"
-                            },
-                            {
-                                "text": "Character and scene creation"
-                            }
-                        ],
-                        "top_offset": -48
                     }
                 }
             ]
