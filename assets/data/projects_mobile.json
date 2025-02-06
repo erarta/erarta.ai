@@ -23,7 +23,7 @@
                     "data": {
                         "vimeo_id": "347507060",
                         "video_name": "dektop_flow",
-                        "vimeo_video_url": "assets/video/projects/modera/program_studio_demo_autoplanner.mp4",
+                        "vimeo_video_url": "assets/video/projects/modera/modera_app_demo.mp4",
                         "video_poster": "img/projects/modera/ss-img-07.png",
                         "src_width": 1535,
                         "src_height": 864,
@@ -34,8 +34,8 @@
                 {
                     "type": "headline",
                     "data": {
-                        "title": "The Concept",
-                        "body": "modera is divided in 3 sections: programs, dictionaries and autoplanning. You can create endless amount of programs which are connected to your custom dictionaries. You can also import your existing programs (tasks) from 3rd party systems like Jira for example. Then you can apply them in autoplanner to get perfectly drafted plan for you."
+                        "title": "Fashion Industry Problems We Solve",
+                        "body": "High return rates. This is one of the main headaches for retailers in online stores: many customers return items due to mismatches in size, style, or other characteristics. This leads to significant logistics costs and reduced profits. \n Expensive and complex product digitization. To provide quality digital content, brands are forced to invest in creating 3D models, which increases costs and time to market. \n Time-consuming search and fitting process. Shoppers spend a lot of time searching for suitable clothing, experiencing inconvenience due to lack of personalization and complex interfaces."
 					}
                 },
                 {
@@ -52,14 +52,14 @@
                 {
                     "type": "headline",
                     "data": {
-                        "title": "The Challenge",
-                        "body": "Your team has great ideas and visions. Like for each great idea you dream big and execute small. And modera is here to help you out decompose your ideas into actionable items so you will execute small and make your vision become reality step by step. It will provide automatically drafted plan with releases so you will know when you are done."
+                        "title": "The Concept",
+                        "body": "We have created MODERA AI - a virtual fitting room that: Helps customers quickly and easily choose clothes. With just a few clicks, shoppers can create a prototype of their look, try on clothes, and see how they will look. Reduces return rates. Style matching helps retailers save on logistics and improve the user experience. Uses an AI assistant for clothing selection. Customers can search for clothes naturally using voice commands. The assistant understands requests, asks clarifying questions, and suggests suitable options."
 					}
                 },
                 {
-                    "type": "image",
+                    "type": "videoloop",
                     "data": {
-                        "src": "img/projects/modera/ss-img-06.png",
+                        "src": "assets/video/projects/modera/modera-ai-voice-assistant-demo.mp4",
                         "src_width": 1536,
                         "src_height": 864,
                         "width_columns": 3,
@@ -81,8 +81,8 @@
                 {
                     "type": "text",
                     "data": {
-                        "title": "Create New Program",
-                        "body": "modera experience begins with creating simple program. Program has the name, status, deadlines and estimation. But you can also add custom fields that are required by the program and you can also provide program types based on the dictionaries you made. So possibilies here are endless."
+                        "title": "AI Voice Assistant",
+                        "body": "Ever wonder what is the most natural and easiest way to find any clothes online? We believe it is your voice. It just feels natural when you talk to the assistant giving your requirements, assistant analyzes your request, ask follow up questions and give you lightning fast result right in the chat. Isn't it that awesome? Checkout below:"
 					}
                 },
                 {
@@ -90,7 +90,7 @@
                     "data": {
                         "vimeo_id": "390928180",
                         "video_name": "ssvid1",
-                        "vimeo_video_url": "assets/video/projects/modera/program_studio_create_task_demo_mobile.mp4",
+                        "vimeo_video_url": "assets/video/projects/modera/modera-ai-voice-assistant-demo.mp4",
                         "src_width": 550,
                         "src_height": 957,
                         "width_columns": 3,
@@ -103,7 +103,7 @@
                     "data": {
                         "vimeo_id": "390928794",
                         "video_name": "ssvid2",
-                        "vimeo_video_url": "assets/video/projects/modera/program_studio_import_jira_demo_mobile.mp4",
+                        "vimeo_video_url": "assets/video/projects/modera/modera-ai-voice-assistant-demo-2.mp4",
                         "src_width": 550,
                         "src_height": 957,
                         "width_columns": 3,
@@ -115,29 +115,25 @@
                 {
                     "type": "text",
                     "data": {
-                        "title": "Import issue tree from Jira",
-                        "body": "If you already have existing issues created in Jira for example, you can import single issue or the whole tree of issues from jira and these issues will be automatically converted into your local programs, already containing name, status and deadlines so you will be instantly good to go!"
-					}
+                        "title": "More than Try On and cloth search assistant",
+                        "body": "Modera AI Fashion is the complete e-commerce experience for the customer journey from landing and sign up page to the order taking and tracking experience. It is your customer profile with settings, search filters and notifications at blazing 60 fps so customers feel native experience"
+                    }
                 },
                 {
-                    "type": "videoloop",
+                    "type": "image",
                     "data": {
-                        "vimeo_id": "390929846",
-                        "video_name": "ssvid3",
-                        "vimeo_video_url": "assets/video/projects/modera/program_studio_export_tasks_demo_mobile.mp4",
+                        "src": "img/projects/modera/modera-profile-screen.png",
                         "src_width": 550,
                         "src_height": 957,
                         "width_columns": 3,
                         "left_columns": 4,
                         "z_index": 99
-					}
+                    }
                 },
                 {
-                    "type": "videoloop",
+                    "type": "image",
                     "data": {
-                        "vimeo_id": "390930200",
-                        "video_name": "ssvid4",
-                        "vimeo_video_url": "assets/video/projects/modera/program_studio_autoplanner_demo_mobile.mp4",
+                        "src": "img/projects/modera/modera-home-screen.png",
                         "src_width": 550,
                         "src_height": 957,
                         "width_columns": 3,
@@ -145,29 +141,28 @@
                         "z_index": 99
 					}
                 },
-
                 {
                     "type": "text",
                     "data": {
-                        "title": "Release Plan",
-                        "body": "When you are done with the programs creation/import, deadlines and teams are set you can go ahead and make the plan based on your programs with our Autoplanner feature. Based on the deadlines and team capacity it will provide the configurable release plan that you can execute right away."
+                        "title": "Scalable and smart architecture",
+                        "body": "App supports high load, scales with your customers and delivers data with blazing speed thanks to our throughful architecture. No more boring loaders :)"
 					}
                 },
                 {
                     "type": "image",
                     "data": {
-                        "src": "img/projects/modera/ss-img-03.png",
-                        "src_width": 519,
-                        "src_height": 921,
+                        "src": "img/projects/modera/modera-skelton-loading.gif",
+                        "src_width": 1536,
+                        "src_height": 864,
                         "width_columns": 3,
-                        "left_columns": 0,
+                        "left_columns": 3,
                         "z_index": 100
 					}
                 },
                 {
                     "type": "image",
                     "data": {
-                        "src": "img/projects/modera/ss-img-04.png",
+                        "src": "img/projects/modera/modera-status-tracking.png",
                         "src_width": 519,
                         "src_height": 921,
                         "width_columns": 3,
@@ -178,16 +173,16 @@
                 {
                     "type": "headline",
                     "data": {
-                        "title": "Collaborative team work",
-                        "body": "There are some features to help your team work together such as program sharing. With this feature you can share access to your program and its configuration easily. Also after creating or importing programs you can prioritize them simply by dragging program up or down. To help you visualize your program structure and deadlines there is a Gantt chart for each program that will also help you resize programs or link them between each other."
+                        "title": "100+ screens of Premium E-Commerce Experience",
+                        "body": "Modera AI Fashion is a premium E-commerce shop that you can use to build full shopping experience that works on both Android & iOS. This app contains 100+ nicely crafted minimal screens that cover everything you need for your shop app."
 					}
                 },
                 {
                     "type": "headline",
                     "data": {
-                        "title": "Program Snapshots",
-                        "body": "modera helps you not only visualise your programs but to compare them against each other. This feature is called Snapshots. With Snapshots you can create copy of your existing program at any moment and then compare it with the current one which will help detect possible problems at the very early stages of your action plan"
-					}
+                        "title": "Need Premium UI Kit?",
+                        "body": "You can always contact us and get complete user experience app with with authorization, try on and voice assistant. And if you only need UI kit - no need to worry about the frontend Modera AI Fashion shop covers everything for you, just connect it with the backend. Also recommended for those who want to redesign their shop app or shift to flutter with premium design. All of the screens support both light & dark themes."
+                    }
                 }
             ]
         },
