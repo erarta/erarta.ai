@@ -1,20 +1,20 @@
 {
     "projects": [
         {
-            "route": "pandora",
+            "route": "modera",
             "menutitle": "",
             "enabled": true,
             "featured": true,
             "globaltitle": "",
-            "title": "Pandora AI Planner",
+            "title": "Modera AI Fashion",
             "description": "A simple, visual way to create project plan and organise teamwork",
             "client": "Erarta",
             "date": "January, 2023",
             "role": "Concept, Design, Development",
             "platforms": "",
-            "url": "https://pandora.erarta.ai/",
-            "poster": "img/projects/pandora/pandora-poster-m.jpg",
-            "poster_m": "img/projects/pandora/pandora-poster-m.jpg",
+            "url": "https://modera.fashion/",
+            "poster": "img/projects/modera/modera-poster-m.jpg",
+            "poster_m": "img/projects/modera/modera-poster-m.jpg",
             "categories": ["mobile", "Web AR"],
             "awards": [],
             "items": [
@@ -23,8 +23,8 @@
                     "data": {
                         "vimeo_id": "347507060",
                         "video_name": "dektop_flow",
-                        "vimeo_video_url": "assets/video/projects/pandora/program_studio_demo_autoplanner.mp4",
-                        "video_poster": "img/projects/pandora/ss-img-07.png",
+                        "vimeo_video_url": "assets/video/projects/modera/program_studio_demo_autoplanner.mp4",
+                        "video_poster": "img/projects/modera/ss-img-07.png",
                         "src_width": 1535,
                         "src_height": 864,
                         "width_columns": 8,
@@ -35,13 +35,13 @@
                     "type": "headline",
                     "data": {
                         "title": "The Concept",
-                        "body": "Pandora is divided in 3 sections: programs, dictionaries and autoplanning. You can create endless amount of programs which are connected to your custom dictionaries. You can also import your existing programs (tasks) from 3rd party systems like Jira for example. Then you can apply them in autoplanner to get perfectly drafted plan for you."
+                        "body": "modera is divided in 3 sections: programs, dictionaries and autoplanning. You can create endless amount of programs which are connected to your custom dictionaries. You can also import your existing programs (tasks) from 3rd party systems like Jira for example. Then you can apply them in autoplanner to get perfectly drafted plan for you."
 					}
                 },
                 {
                     "type": "image",
                     "data": {
-                        "src": "img/projects/pandora/ss-img-01.png",
+                        "src": "img/projects/modera/ss-img-01.png",
                         "src_width": 1535,
                         "src_height": 864,
                         "width_columns": 8,
@@ -53,13 +53,13 @@
                     "type": "headline",
                     "data": {
                         "title": "The Challenge",
-                        "body": "Your team has great ideas and visions. Like for each great idea you dream big and execute small. And Pandora is here to help you out decompose your ideas into actionable items so you will execute small and make your vision become reality step by step. It will provide automatically drafted plan with releases so you will know when you are done."
+                        "body": "Your team has great ideas and visions. Like for each great idea you dream big and execute small. And modera is here to help you out decompose your ideas into actionable items so you will execute small and make your vision become reality step by step. It will provide automatically drafted plan with releases so you will know when you are done."
 					}
                 },
                 {
                     "type": "image",
                     "data": {
-                        "src": "img/projects/pandora/ss-img-06.png",
+                        "src": "img/projects/modera/ss-img-06.png",
                         "src_width": 1536,
                         "src_height": 864,
                         "width_columns": 3,
@@ -70,7 +70,7 @@
                 {
                     "type": "image",
                     "data": {
-                        "src": "img/projects/pandora/ss-img-02.png",
+                        "src": "img/projects/modera/ss-img-02.png",
                         "src_width": 519,
                         "src_height": 921,
                         "width_columns": 3,
@@ -82,7 +82,7 @@
                     "type": "text",
                     "data": {
                         "title": "Create New Program",
-                        "body": "Pandora experience begins with creating simple program. Program has the name, status, deadlines and estimation. But you can also add custom fields that are required by the program and you can also provide program types based on the dictionaries you made. So possibilies here are endless."
+                        "body": "modera experience begins with creating simple program. Program has the name, status, deadlines and estimation. But you can also add custom fields that are required by the program and you can also provide program types based on the dictionaries you made. So possibilies here are endless."
 					}
                 },
                 {
@@ -90,7 +90,7 @@
                     "data": {
                         "vimeo_id": "390928180",
                         "video_name": "ssvid1",
-                        "vimeo_video_url": "assets/video/projects/pandora/program_studio_create_task_demo_mobile.mp4",
+                        "vimeo_video_url": "assets/video/projects/modera/program_studio_create_task_demo_mobile.mp4",
                         "src_width": 550,
                         "src_height": 957,
                         "width_columns": 3,
@@ -103,7 +103,7 @@
                     "data": {
                         "vimeo_id": "390928794",
                         "video_name": "ssvid2",
-                        "vimeo_video_url": "assets/video/projects/pandora/program_studio_import_jira_demo_mobile.mp4",
+                        "vimeo_video_url": "assets/video/projects/modera/program_studio_import_jira_demo_mobile.mp4",
                         "src_width": 550,
                         "src_height": 957,
                         "width_columns": 3,
@@ -124,7 +124,7 @@
                     "data": {
                         "vimeo_id": "390929846",
                         "video_name": "ssvid3",
-                        "vimeo_video_url": "assets/video/projects/pandora/program_studio_export_tasks_demo_mobile.mp4",
+                        "vimeo_video_url": "assets/video/projects/modera/program_studio_export_tasks_demo_mobile.mp4",
                         "src_width": 550,
                         "src_height": 957,
                         "width_columns": 3,
@@ -137,7 +137,7 @@
                     "data": {
                         "vimeo_id": "390930200",
                         "video_name": "ssvid4",
-                        "vimeo_video_url": "assets/video/projects/pandora/program_studio_autoplanner_demo_mobile.mp4",
+                        "vimeo_video_url": "assets/video/projects/modera/program_studio_autoplanner_demo_mobile.mp4",
                         "src_width": 550,
                         "src_height": 957,
                         "width_columns": 3,
@@ -156,7 +156,7 @@
                 {
                     "type": "image",
                     "data": {
-                        "src": "img/projects/pandora/ss-img-03.png",
+                        "src": "img/projects/modera/ss-img-03.png",
                         "src_width": 519,
                         "src_height": 921,
                         "width_columns": 3,
@@ -167,7 +167,7 @@
                 {
                     "type": "image",
                     "data": {
-                        "src": "img/projects/pandora/ss-img-04.png",
+                        "src": "img/projects/modera/ss-img-04.png",
                         "src_width": 519,
                         "src_height": 921,
                         "width_columns": 3,
@@ -186,7 +186,7 @@
                     "type": "headline",
                     "data": {
                         "title": "Program Snapshots",
-                        "body": "Pandora helps you not only visualise your programs but to compare them against each other. This feature is called Snapshots. With Snapshots you can create copy of your existing program at any moment and then compare it with the current one which will help detect possible problems at the very early stages of your action plan"
+                        "body": "modera helps you not only visualise your programs but to compare them against each other. This feature is called Snapshots. With Snapshots you can create copy of your existing program at any moment and then compare it with the current one which will help detect possible problems at the very early stages of your action plan"
 					}
                 }
             ]
