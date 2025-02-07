@@ -56,7 +56,7 @@
                         "vimeo_id": "391444974",
                         "vimeo_video_url": "assets/video/projects/modera/modera_app_demo.mp4",
                         "video_name": "dektop_flow",
-                        "video_poster": "img/projects/modera/ss-img-07.png",
+                        "video_poster": "img/projects/modera/modera-app-collage-cover.png",
                         "src_width": 1535,
                         "src_height": 864,
                         "width_columns": 8,
@@ -75,7 +75,7 @@
                 {
                     "type": "image",
                     "data": {
-                        "src": "img/projects/modera/ss-img-01.png",
+                        "src": "img/projects/modera/modera-app-collage.png",
                         "src_width": 1535,
                         "src_height": 864,
                         "width_columns": 8,
@@ -95,25 +95,24 @@
                 {
                     "type": "image",
                     "data": {
-                        "src": "img/projects/modera/ss-img-02.png",
-                        "src_width": 1536,
-                        "src_height": 864,
-                        "width_columns": 8,
-                        "left_columns": 0,
+                        "src": "img/projects/modera/modera-virtual-try-on-home.png",
+                        "src_width": 519,
+                        "src_height": 921,
+                        "width_columns": 3,
+                        "left_columns": 1,
                         "z_index": 100,
-                        "top_offset": 138
-                    }
+                        "top_offset": 30                    }
                 },
                 {
                     "type": "image",
                     "data": {
-                        "src": "img/projects/modera/ss-img-06.png",
+                        "src": "img/projects/modera/modera-virtual-try-on-home-selected.png",
                         "src_width": 519,
                         "src_height": 921,
                         "width_columns": 3,
-                        "left_columns": 6,
+                        "left_columns": 4,
                         "z_index": 100,
-                        "top_offset": -138
+                        "top_offset": -210
                     }
                 },
                 {
@@ -187,17 +186,17 @@
                 {
                     "type": "text",
                     "data": {
-                        "title": "Scalable and smart architecture",
-                        "body": "App supports high load, scales with your customers and delivers data with blazing speed thanks to our throughful architecture. No more boring loaders :)",
+                        "title": "Segmentation and scalable architecture",
+                        "body": "Out technology supports clothe segmentation. So we can take off cloth from the model and apply it elsewhere. App supports high load, scales with your customers and delivers data with blazing speed thanks to our throughful architecture. No more boring loaders :)",
                         "top_offset": 112
 					}
                 },
                 {
                     "type": "image",
                     "data": {
-                        "src": "img/projects/modera/modera-skelton-loading.gif",
-                        "src_width": 960,
-                        "src_height": 540,
+                        "src": "img/projects/modera/modera-segmentation-transform-demo.png",
+                        "src_width": 1684,
+                        "src_height": 474,
                         "width_columns": 6,
                         "left_columns": 0,
                         "z_index": 100,
@@ -207,13 +206,25 @@
                 {
                     "type": "image",
                     "data": {
+                        "src": "img/projects/modera/modera-review-order-screen.png",
+                        "src_width": 519,
+                        "src_height": 921,
+                        "width_columns": 4,
+                        "left_columns": 1,
+                        "z_index": 100,
+                        "top_offset": 20
+                    }
+                },
+                {
+                    "type": "image",
+                    "data": {
                         "src": "img/projects/modera/modera-status-tracking.png",
                         "src_width": 519,
                         "src_height": 921,
-                        "width_columns": 3,
-                        "left_columns": 4,
+                        "width_columns": 4,
+                        "left_columns": 5,
                         "z_index": 100,
-                        "top_offset": -138
+                        "top_offset": -450
                     }
                 },
                 {
