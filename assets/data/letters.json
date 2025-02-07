@@ -3800,52 +3800,18 @@
                   "px",
                   " Fort-Extralight, Arial, sans-serif"
               ],
-              "color": "rgb(255, 255, 255)",
+              "color": "rgb(0, 0, 0)",
               "textTransform": "none",
               "letters":
               [
-                  {
-                      "c": "P",
-                      "x": 7,
-                      "y": 7
-                  },
-                  {
-                      "c": "a",
-                      "x": 48,
-                      "y": 7
-                  },
-                  {
-                      "c": "n",
-                      "x": 82,
-                      "y": 7
-                  },
-                  {
-                      "c": "d",
-                      "x": 117,
-                      "y": 7
-                  },
-                  {
-                      "c": "o",
-                      "x": 153,
-                      "y": 7
-                  },
-                  {
-                      "c": "r",
-                      "x": 190,
-                      "y": 7
-                  },
-                  {
-                      "c": "a",
-                      "x": 210,
-                      "y": 7
-                  }
+                  
               ]
           }
       ],
       "images":
       [],
       "offsetX": 7,
-      "width": 180
+      "width": 120
   },
   {
       "id": "work-menu-item-tetra",

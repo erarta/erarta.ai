@@ -39,7 +39,7 @@
             "featured": true,
             "globaltitle": "",
             "title": "Modera AI Fashion",
-            "description": "modera allows you to create any kind of roadmap for your company, alongside with very customizable library, connections, shared programs and AI autoplanner",
+            "description": "E-Commerce with virtual try on and AI voice assistant",
             "client": "ERARTA",
             "date": "February, 2022",
             "role": "Concept, Design, Development",
@@ -163,13 +163,13 @@
                     "type": "image",
                     "data": {
                         "src": "img/projects/modera/modera-profile-screen.png",
-                        "src_width": 1536,
-                        "src_height": 864,
-                        "width_columns": 8,
-                        "left_columns": 0,
-                        "z_index": 100,
-                        "top_offset": 138
-                    }
+                        "src_width": 550,
+                        "src_height": 957,
+                        "width_columns": 4,
+                        "left_columns": 2,
+                        "z_index": 99,
+                        "top_offset": 20
+					}
                 },
                 {
                     "type": "image",
@@ -177,7 +177,7 @@
                         "src": "img/projects/modera/modera-home-screen.png",
                         "src_width": 550,
                         "src_height": 957,
-                        "width_columns": 3,
+                        "width_columns": 4,
                         "left_columns": 0,
                         "z_index": 99,
                         "top_offset": -100
@@ -207,8 +207,8 @@
                     "type": "image",
                     "data": {
                         "src": "img/projects/modera/modera-review-order-screen.png",
-                        "src_width": 519,
-                        "src_height": 921,
+                        "src_width": 550,
+                        "src_height": 957,
                         "width_columns": 4,
                         "left_columns": 1,
                         "z_index": 100,
@@ -219,8 +219,8 @@
                     "type": "image",
                     "data": {
                         "src": "img/projects/modera/modera-status-tracking.png",
-                        "src_width": 519,
-                        "src_height": 921,
+                        "src_width": 550,
+                        "src_height": 957,
                         "width_columns": 4,
                         "left_columns": 5,
                         "z_index": 100,

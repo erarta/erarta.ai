@@ -7,9 +7,9 @@
             "featured": true,
             "globaltitle": "",
             "title": "Modera AI Fashion",
-            "description": "A simple, visual way to create project plan and organise teamwork",
+            "description": "E-Commerce with virtual try on and AI voice assistant",
             "client": "Erarta",
-            "date": "January, 2023",
+            "date": "February, 2025",
             "role": "Concept, Design, Development",
             "platforms": "",
             "url": "https://modera.fashion/",
@@ -24,11 +24,9 @@
                         "vimeo_id": "347507060",
                         "video_name": "dektop_flow",
                         "vimeo_video_url": "assets/video/projects/modera/modera_app_demo.mp4",
-                        "video_poster": "img/projects/modera/ss-img-07.png",
+                        "video_poster": "img/projects/modera/modera-app-collage-cover.png",
                         "src_width": 1535,
-                        "src_height": 864,
-                        "width_columns": 8,
-                        "left_columns": 0
+                        "src_height": 864
                     }
                 },
                 {
@@ -41,11 +39,9 @@
                 {
                     "type": "image",
                     "data": {
-                        "src": "img/projects/modera/ss-img-01.png",
+                        "src": "img/projects/modera/modera-app-collage.png",
                         "src_width": 1535,
                         "src_height": 864,
-                        "width_columns": 8,
-                        "left_columns": 0,
                         "z_index": 100
                     }
                 },
@@ -53,28 +49,25 @@
                     "type": "headline",
                     "data": {
                         "title": "The Concept",
-                        "body": "We have created MODERA AI - a virtual fitting room that: Helps customers quickly and easily choose clothes. With just a few clicks, shoppers can create a prototype of their look, try on clothes, and see how they will look. Reduces return rates. Style matching helps retailers save on logistics and improve the user experience. Uses an AI assistant for clothing selection. Customers can search for clothes naturally using voice commands. The assistant understands requests, asks clarifying questions, and suggests suitable options."
-					}
+                        "body": "We have created MODERA AI - a virtual fitting room that: Helps customers quickly and easily choose clothes. With just a few clicks, shoppers can create a prototype of their look, try on clothes, and see how they will look. Reduces return rates. Style matching helps retailers save on logistics and improve the user experience. Uses an AI assistant for clothing selection. Customers can search for clothes naturally using voice commands. The assistant understands requests, asks clarifying questions, and suggests suitable options.",
+                        "top_offset": 120
+                    }
                 },
                 {
-                    "type": "videoloop",
+                    "type": "image",
                     "data": {
-                        "src": "assets/video/projects/modera/modera-ai-voice-assistant-demo.mp4",
-                        "src_width": 1536,
-                        "src_height": 864,
-                        "width_columns": 3,
-                        "left_columns": 3,
+                        "src": "img/projects/modera/modera-virtual-try-on-home.png",
+                        "src_width": 519,
+                        "src_height": 921,
                         "z_index": 100
                     }
                 },
                 {
                     "type": "image",
                     "data": {
-                        "src": "img/projects/modera/ss-img-02.png",
+                        "src": "img/projects/modera/modera-virtual-try-on-home-selected.png",
                         "src_width": 519,
                         "src_height": 921,
-                        "width_columns": 3,
-                        "left_columns": 3,
                         "z_index": 100
                     }
                 },
@@ -82,7 +75,8 @@
                     "type": "text",
                     "data": {
                         "title": "AI Voice Assistant",
-                        "body": "Ever wonder what is the most natural and easiest way to find any clothes online? We believe it is your voice. It just feels natural when you talk to the assistant giving your requirements, assistant analyzes your request, ask follow up questions and give you lightning fast result right in the chat. Isn't it that awesome? Checkout below:"
+                        "body": "Ever wonder what is the most natural and easiest way to find any clothes online? We believe it is your voice. It just feels natural when you talk to the assistant giving your requirements, assistant analyzes your request, ask follow up questions and give you lightning fast result right in the chat. Isn't that awesome? Checkout below:",
+                        "top_offset": 112
 					}
                 },
                 {
@@ -93,8 +87,6 @@
                         "vimeo_video_url": "assets/video/projects/modera/modera-ai-voice-assistant-demo.mp4",
                         "src_width": 550,
                         "src_height": 957,
-                        "width_columns": 3,
-                        "left_columns": 0,
                         "z_index": 99
                     }
                 },
@@ -106,12 +98,9 @@
                         "vimeo_video_url": "assets/video/projects/modera/modera-ai-voice-assistant-demo-2.mp4",
                         "src_width": 550,
                         "src_height": 957,
-                        "width_columns": 3,
-                        "left_columns": 4,
                         "z_index": 99
-					}
+                    }
                 },
-
                 {
                     "type": "text",
                     "data": {
@@ -125,10 +114,8 @@
                         "src": "img/projects/modera/modera-profile-screen.png",
                         "src_width": 550,
                         "src_height": 957,
-                        "width_columns": 3,
-                        "left_columns": 4,
                         "z_index": 99
-                    }
+					}
                 },
                 {
                     "type": "image",
@@ -136,39 +123,43 @@
                         "src": "img/projects/modera/modera-home-screen.png",
                         "src_width": 550,
                         "src_height": 957,
-                        "width_columns": 3,
-                        "left_columns": 0,
                         "z_index": 99
 					}
                 },
                 {
                     "type": "text",
                     "data": {
-                        "title": "Scalable and smart architecture",
-                        "body": "App supports high load, scales with your customers and delivers data with blazing speed thanks to our throughful architecture. No more boring loaders :)"
+                        "title": "Segmentation and scalable architecture",
+                        "body": "Out technology supports clothe segmentation. So we can take off cloth from the model and apply it elsewhere. App supports high load, scales with your customers and delivers data with blazing speed thanks to our throughful architecture. No more boring loaders :)",
+                        "top_offset": 112
 					}
                 },
                 {
                     "type": "image",
                     "data": {
-                        "src": "img/projects/modera/modera-skelton-loading.gif",
-                        "src_width": 1536,
-                        "src_height": 864,
-                        "width_columns": 3,
-                        "left_columns": 3,
+                        "src": "img/projects/modera/modera-segmentation-transform-demo.png",
+                        "src_width": 1684,
+                        "src_height": 474,
                         "z_index": 100
-					}
+                    }
+                },
+                {
+                    "type": "image",
+                    "data": {
+                        "src": "img/projects/modera/modera-review-order-screen.png",
+                        "src_width": 550,
+                        "src_height": 957,
+                        "z_index": 100
+                    }
                 },
                 {
                     "type": "image",
                     "data": {
                         "src": "img/projects/modera/modera-status-tracking.png",
-                        "src_width": 519,
-                        "src_height": 921,
-                        "width_columns": 3,
-                        "left_columns": 4,
+                        "src_width": 550,
+                        "src_height": 957,
                         "z_index": 100
-					}
+                    }
                 },
                 {
                     "type": "headline",
