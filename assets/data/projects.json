@@ -32,6 +32,218 @@
         }
     ],
     "projects": [
-        
+        {
+            "route": "modera",
+            "menutitle": "",
+            "enabled": true,
+            "featured": true,
+            "globaltitle": "",
+            "title": "Modera AI Fashion",
+            "description": "E-Commerce with virtual try on and AI voice assistant",
+            "client": "ERARTA",
+            "date": "February, 2022",
+            "role": "Concept, Design, Development",
+            "platforms": "",
+            "url": "https://modera.fashion",
+            "poster": "img/projects/modera/modera-poster.jpg",
+            "poster_m": "img/projects/modera/modera-poster-m.jpg",
+            "categories": ["mobile", "Web AR"],
+            "awards": [],
+            "items": [
+                {
+                    "type": "video",
+                    "data": {
+                        "vimeo_id": "391444974",
+                        "vimeo_video_url": "assets/video/projects/modera/modera_app_demo.mp4",
+                        "video_name": "dektop_flow",
+                        "video_poster": "img/projects/modera/modera-app-collage-cover.png",
+                        "src_width": 1535,
+                        "src_height": 864,
+                        "width_columns": 8,
+                        "left_columns": 0,
+                        "top_offset": 70
+                    }
+                },
+                {
+                    "type": "headline",
+                    "data": {
+                        "title": "Fashion Industry Problems We Solve",
+                        "body": "High return rates. This is one of the main headaches for retailers in online stores: many customers return items due to mismatches in size, style, or other characteristics. This leads to significant logistics costs and reduced profits. \n Expensive and complex product digitization. To provide quality digital content, brands are forced to invest in creating 3D models, which increases costs and time to market. \n Time-consuming search and fitting process. Shoppers spend a lot of time searching for suitable clothing, experiencing inconvenience due to lack of personalization and complex interfaces.",
+                        "top_offset": 120
+                    }
+                },
+                {
+                    "type": "image",
+                    "data": {
+                        "src": "img/projects/modera/modera-app-collage.png",
+                        "src_width": 1535,
+                        "src_height": 864,
+                        "width_columns": 8,
+                        "left_columns": 0,
+                        "z_index": 100,
+                        "top_offset": 138
+                    }
+                },
+                {
+                    "type": "headline",
+                    "data": {
+                        "title": "The Concept",
+                        "body": "We have created MODERA AI - a virtual fitting room that: Helps customers quickly and easily choose clothes. With just a few clicks, shoppers can create a prototype of their look, try on clothes, and see how they will look. Reduces return rates. Style matching helps retailers save on logistics and improve the user experience. Uses an AI assistant for clothing selection. Customers can search for clothes naturally using voice commands. The assistant understands requests, asks clarifying questions, and suggests suitable options.",
+                        "top_offset": 120
+                    }
+                },
+                {
+                    "type": "image",
+                    "data": {
+                        "src": "img/projects/modera/modera-virtual-try-on-home.png",
+                        "src_width": 519,
+                        "src_height": 921,
+                        "width_columns": 3,
+                        "left_columns": 1,
+                        "z_index": 100,
+                        "top_offset": 30                    }
+                },
+                {
+                    "type": "image",
+                    "data": {
+                        "src": "img/projects/modera/modera-virtual-try-on-home-selected.png",
+                        "src_width": 519,
+                        "src_height": 921,
+                        "width_columns": 3,
+                        "left_columns": 4,
+                        "z_index": 100,
+                        "top_offset": -210
+                    }
+                },
+                {
+                    "type": "text",
+                    "data": {
+                        "title": "AI Voice Assistant",
+                        "body": "Ever wonder what is the most natural and easiest way to find any clothes online? We believe it is your voice. It just feels natural when you talk to the assistant giving your requirements, assistant analyzes your request, ask follow up questions and give you lightning fast result right in the chat. Isn't that awesome? Checkout below:",
+                        "top_offset": 112
+					}
+                },
+                {
+                    "type": "videoloop",
+                    "data": {
+                        "vimeo_id": "390928180",
+                        "video_name": "ssvid1",
+                        "vimeo_video_url": "assets/video/projects/modera/modera-ai-voice-assistant-demo.mp4",
+                        "src_width": 550,
+                        "src_height": 957,
+                        "width_columns": 3,
+                        "left_columns": 0,
+                        "z_index": 99,
+                        "top_offset": 200
+                    }
+                },
+                {
+                    "type": "videoloop",
+                    "data": {
+                        "vimeo_id": "390928794",
+                        "video_name": "ssvid2",
+                        "vimeo_video_url": "assets/video/projects/modera/modera-ai-voice-assistant-demo-2.mp4",
+                        "src_width": 550,
+                        "src_height": 957,
+                        "width_columns": 3,
+                        "left_columns": 4,
+                        "z_index": 99,
+                        "top_offset": -100
+                    }
+                },
+                {
+                    "type": "text",
+                    "data": {
+                        "title": "More than Try On and cloth search assistant",
+                        "body": "Modera AI Fashion is the complete e-commerce experience for the customer journey from landing and sign up page to the order taking and tracking experience. It is your customer profile with settings, search filters and notifications at blazing 60 fps so customers feel native experience",
+                        "top_offset": 112
+                    }
+                },
+                {
+                    "type": "image",
+                    "data": {
+                        "src": "img/projects/modera/modera-profile-screen.png",
+                        "src_width": 550,
+                        "src_height": 957,
+                        "width_columns": 4,
+                        "left_columns": 2,
+                        "z_index": 99,
+                        "top_offset": 20
+					}
+                },
+                {
+                    "type": "image",
+                    "data": {
+                        "src": "img/projects/modera/modera-home-screen.png",
+                        "src_width": 550,
+                        "src_height": 957,
+                        "width_columns": 4,
+                        "left_columns": 0,
+                        "z_index": 99,
+                        "top_offset": -100
+					}
+                },
+                {
+                    "type": "text",
+                    "data": {
+                        "title": "Segmentation and scalable architecture",
+                        "body": "Out technology supports clothe segmentation. So we can take off cloth from the model and apply it elsewhere. App supports high load, scales with your customers and delivers data with blazing speed thanks to our throughful architecture. No more boring loaders :)",
+                        "top_offset": 112
+					}
+                },
+                {
+                    "type": "image",
+                    "data": {
+                        "src": "img/projects/modera/modera-segmentation-transform-demo.png",
+                        "src_width": 1684,
+                        "src_height": 474,
+                        "width_columns": 6,
+                        "left_columns": 0,
+                        "z_index": 100,
+                        "top_offset": 138
+                    }
+                },
+                {
+                    "type": "image",
+                    "data": {
+                        "src": "img/projects/modera/modera-review-order-screen.png",
+                        "src_width": 550,
+                        "src_height": 957,
+                        "width_columns": 4,
+                        "left_columns": 1,
+                        "z_index": 100,
+                        "top_offset": 20
+                    }
+                },
+                {
+                    "type": "image",
+                    "data": {
+                        "src": "img/projects/modera/modera-status-tracking.png",
+                        "src_width": 550,
+                        "src_height": 957,
+                        "width_columns": 4,
+                        "left_columns": 5,
+                        "z_index": 100,
+                        "top_offset": -450
+                    }
+                },
+                {
+                    "type": "headline",
+                    "data": {
+                        "title": "100+ screens of Premium E-Commerce Experience",
+                        "body": "Modera AI Fashion is a premium E-commerce shop that you can use to build full shopping experience that works on both Android & iOS. This app contains 100+ nicely crafted minimal screens that cover everything you need for your shop app.",
+                        "top_offset": 120
+					}
+                },
+                {
+                    "type": "headline",
+                    "data": {
+                        "title": "Need Premium UI Kit?",
+                        "body": "You can always contact us and get complete user experience app with with authorization, try on and voice assistant. And if you only need UI kit - no need to worry about the frontend Modera AI Fashion shop covers everything for you, just connect it with the backend. Also recommended for those who want to redesign their shop app or shift to flutter with premium design. All of the screens support both light & dark themes.",
+                        "top_offset": 120
+                    }
+                }
+            ]
+        }
     ]
 }

@@ -70,7 +70,7 @@ SEA3D.Stream.BLEND_MODE = [
 	"overlay", "colorburn", "linearburn", "lighten", "colordodge", "lineardodge",
 	"softlight", "hardlight", "pinlight", "spotlight", "spotlightblend", "hardmix",
 	"average", "difference", "exclusion", "hue", "saturation", "color", "value",
-	"linearlight", "grainextract", "reflect", "glow", "darkercolor", "lightercolor", "pandora", "negation"
+	"linearlight", "grainextract", "reflect", "glow", "darkercolor", "lightercolor", "modera", "negation"
 ];
 
 SEA3D.Stream.INTERPOLATION_TABLE = [
