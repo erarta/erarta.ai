@@ -22111,7 +22111,7 @@ define('model/app_model',[
             HOME    : '',
             MENU    : '!/menu',
             ABOUT   : '!/about',
-            WORK    : '!/products/',
+            WORK    : '!/work/',
             CONTACT : '!/contact',
             REEL    : '!/reel'
         },
@@ -24115,7 +24115,7 @@ define('view/mobile/pages/menu',[
         },
 
         onWorkClick: function() {
-            Router.navigate('!/products', { trigger: true });
+            Router.navigate('!/work', { trigger: true });
         },
 
         onContactClick: function() {
@@ -26436,7 +26436,7 @@ define('view/mobile/modules/work/menu/work_menu_item_view',[
 
             this.setElement(Templates.r('workMenuItemMobile', this.model.toJSON()));
 
-            this.POSTER_OFFSET = 60;
+            this.POSTER_OFFSET = -30;
 
             this.$posterHolder = this.$('.js-bg-holder');
             
@@ -29017,7 +29017,7 @@ define('view/mobile/modules/work/work_menu_view',[
 
         onListBtnClick: function(e) {
             e.preventDefault();
-            Router.navigate("!/products", { trigger: true });
+            Router.navigate("!/work/all", { trigger: true });
         },
 
         onLinkSelected: function(type) {
@@ -29046,7 +29046,7 @@ define('view/mobile/modules/work/work_menu_view',[
 
         navigateToProject: function() {
             var route = this.items[this.currIdx].model.get("route");
-            Router.navigate("!/products/" + route + "/", { trigger: true });
+            Router.navigate("!/work/" + route + "/", { trigger: true });
         },
 
         // utils ---------------------------------------------------------------
@@ -42757,7 +42757,7 @@ define(
                         this.trigger('requestClose');
                     }
                 } else {
-                    Router.navigate('!/products/' + item.route, { trigger: true });
+                    Router.navigate('!/work/' + item.route, { trigger: true });
                 }
             }
         });
@@ -43061,7 +43061,7 @@ define('view/mobile/modules/work/overview/mobile_overview_project_item_view',[
 
         _onClick: function() {
             var route = this.model.get('route');
-            Router.navigate('!/products/' + route + '/', {
+            Router.navigate('!/work/' + route + '/', {
                 'trigger': true
             });
         },
@@ -97764,7 +97764,7 @@ define('view/mobile/modules/shell/overview_button',[
             }
 
             _.defer(function(){
-                Router.navigate('!/products', { trigger: true });
+                Router.navigate('!/work/all', { trigger: true });
             });
         }
 	});
@@ -98622,7 +98622,7 @@ define('view/app_mobile_view',[
         new RouteObject(['', '!/'], AppModel.PAGES.HOME),
         new RouteObject(['!/menu(/)'], AppModel.PAGES.MENU),
         new RouteObject(['!/about(/)'], AppModel.PAGES.ABOUT),
-        new RouteObject(['!/products(/)(:project)(/)'], AppModel.PAGES.WORK),
+        new RouteObject(['!/work(/)(:project)(/)'], AppModel.PAGES.WORK),
         new RouteObject(['!/contact(/)'], AppModel.PAGES.CONTACT),
         new RouteObject(['!/reel(/)'], AppModel.PAGES.REEL),
     ]);

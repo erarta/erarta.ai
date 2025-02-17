@@ -6,7 +6,7 @@
             "enabled": true,
             "featured": true,
             "globaltitle": "",
-            "title": "Modera AI Fashion Shop",
+            "title": "",
             "description": "Virtual Try On with AI voice assistant",
             "client": "Erarta",
             "date": "February, 2025",
@@ -174,6 +174,126 @@
                         "title": "Need Premium UI Kit?",
                         "body": "You can always contact us and get complete user experience app with with authorization, try on and voice assistant. And if you only need UI kit - no need to worry about the frontend Modera AI Fashion shop covers everything for you, just connect it with the backend. Also recommended for those who want to redesign their shop app or shift to flutter with premium design. All of the screens support both light & dark themes."
                     }
+                }
+            ]
+        },
+        {
+            "route": "cor",
+            "menutitle": "",
+            "enabled": true,
+            "featured": true,
+            "globaltitle": "",
+            "title": "Snap. Analyze. Stay Healthy.",
+            "description": "A look at the cutting-edge media processor - Tetra.",
+            "client": "ERARTA",
+            "date": "September, 2020",
+            "role": "Design, Development, UI, UX",
+            "platforms": "",
+            "url": "https://tetra.erarta.ai",
+            "poster": "img/projects/tetra/tetra-poster.png",
+            "poster_m": "img/projects/tetra/mobile/tetra-poster-m.jpg",
+            "categories": ["design", "development", "Website"],
+            "awards": [],
+            "items": [
+                {
+                    "type": "mobilevideo",
+                    "data": {
+                        "vimeo_id": "347507060",
+                        "video_name": "dektop_flow",
+                        "vimeo_video_url": "assets/video/projects/tetra/media-processor-demo.mp4",
+                        "video_poster": "img/projects/tetra/tetra-videoposter.png",
+                        "src_width": 2048,
+                        "src_height": 1008
+					}
+                },
+                {
+                    "type": "headline",
+                    "data": {
+                        "title": "The Challenge",
+                        "body": "This is era of images and videos. Thousands of images flow back and forth appearing on the websites, social media and ads. But each platform has its own rules and dimensions to host media. And sometimes you want to take just the fraction of the image to place it online. Tetra helps you to solve this."
+					}
+                },
+                {
+                    "type": "image",
+                    "data": {
+                        "src": "img/projects/tetra/1-tetra-intro-image.png",
+                        "src_width": 1536,
+                        "src_height": 864
+					}
+                },
+                {
+                    "type": "text",
+                    "data": {
+                        "title": "Processing life cycle",
+                        "body": "It all starts with uploading the image of your choice. Next you select the type of template for your image dimenstions."
+					}
+                },
+                {
+                    "type": "headline",
+                    "data": {
+                        "title": "Crop, Preview, Process",
+                        "body": "After selecting template type you are able to crop the image, preview it, process and get the result"
+					}
+                },
+                {
+                    "type": "carousel",
+                    "data": {
+                        "images": [
+                            {
+                                "src": "img/projects/tetra/3-tetra-desktop.jpg"
+                            },
+                            {
+                                "src": "img/projects/tetra/4-tetra-desktop.jpg"
+                            },
+                            {
+                                "src": "img/projects/tetra/5-tetra-desktop.jpg"
+                            }
+                        ],
+                        "src_width": 1539,
+                        "src_height": 867
+					}
+                },
+                {
+                    "type": "image",
+                    "data": {
+                        "src": "img/projects/tetra/mobile/6-tetra-mobile.png",
+                        "src_width": 640,
+                        "src_height": 1291
+					}
+                },
+                {
+                    "type": "image",
+                    "data": {
+                        "src": "img/projects/tetra/mobile/7-tetra-mobile.png",
+                        "src_width": 640,
+                        "src_height": 1291
+					}
+                },
+                
+                {
+                    "type": "image",
+                    "data": {
+                        "src": "img/projects/tetra/mobile/13-tetra-mobile.png",
+                        "src_width": 640,
+                        "src_height": 1291
+					}
+                },
+                {
+                    "type": "text",
+                    "data": {
+                        "title": "Result",
+                        "body": "Use result JSON as the source for cut and cropped image and place it immideately on your website"
+                    }
+                },
+                {
+                    "type": "videoloop",
+                    "data": {
+                        "vimeo_id": "348555180",
+                        "video_name": "media-processor",
+                        "vimeo_video_url": "assets/video/projects/tetra/media-processor-demo-trimmed.mp4",
+                        "src_width": 1280,
+                        "src_height": 720
+					}
                 }
             ]
         }
