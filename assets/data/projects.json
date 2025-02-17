@@ -244,6 +244,25 @@
                     }
                 }
             ]
+        },
+        {
+            "route": "tetra",
+            "menutitle": "",
+            "enabled": true,
+            "featured": true,
+            "globaltitle": "",
+            "title": "Snap. Analyze. Stay Healthy",
+            "description": "Snap. Analyze. Stay Healthy",
+            "client": "ERARTA",
+            "date": "September, 2020",
+            "role": "Design, Development, Animation, UI, UX",
+            "platforms": "",
+            "url": "https://cor.erarta.ai",
+            "poster": "img/projects/tetra/tetra-poster.png",
+            "poster_m": "img/projects/tetra/tetra-poster-m.jpg",
+            "categories": ["design", "development", "Website"],
+            "awards": [],
+            "items": []
         }
     ]
 }
