@@ -922,7 +922,7 @@ body > img {
 
 .contact-page .contact__other .contact__address h3,.contact-page .contact__other .contact__social h3 {
     margin-bottom: 1.3rem;
-    opacity: 0;
+    opacity: 1;
     font-family: "Fort-Medium","Arial",sans-serif;
     font-weight: normal;
     font-style: normal;
@@ -932,7 +932,7 @@ body > img {
 }
 
 .contact-page .contact__other .contact__address p,.contact-page .contact__other .contact__social p {
-    opacity: 0;
+    opacity: 1;
     margin: 1rem 0;
     font-family: "Fort-Medium","Arial",sans-serif;
     font-weight: normal;
@@ -1027,7 +1027,7 @@ body > img {
 
 .contact-page .contact__social h3 {
     margin-bottom: 1.3rem;
-    opacity: 0;
+    opacity: 1;
     font-family: "Fort-Medium","Arial",sans-serif;
     font-weight: normal;
     font-style: normal;
@@ -1037,7 +1037,7 @@ body > img {
 }
 
 .contact-page .contact__social p {
-    opacity: 0;
+    opacity: 1;
     margin: 1rem 0;
     font-family: "Fort-Book","Arial",sans-serif;
     font-weight: normal;
