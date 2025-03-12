@@ -2987,12 +2987,12 @@ h2.overlay-text,h3.overlay-text,p.overlay-text,span.overlay-text {
 }
 
 .contact-page .contact__other .contact__address h3,.contact-page .contact__other .contact__social h3 {
-    opacity: 0;
+    opacity: 1;
     margin: 0;
 }
 
 .contact-page .contact__other .contact__address p,.contact-page .contact__other .contact__social p {
-    opacity: 0;
+    opacity: 1;
     margin: 0;
     line-height: 1.4rem;
 }
