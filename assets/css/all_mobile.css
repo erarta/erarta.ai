@@ -2980,6 +2980,7 @@ h2.overlay-text,h3.overlay-text,p.overlay-text,span.overlay-text {
 
 .contact-page .contact__other .contact__address {
     margin-bottom: 3rem;
+    margin-right: 3rem;
 }
 
 .contact-page .contact__other .contact__address,.contact-page .contact__other .contact__social {
