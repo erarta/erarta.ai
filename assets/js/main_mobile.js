@@ -23367,12 +23367,18 @@ define('view/mobile/pages/home',[
         setup: function() {
             this.$tagLine = this.$('.js-tagLine');
             this.addEvents();
+			this.$tagLine.on('click', this.onTagLineClick);
         },
+
+		onTagLineClick: function() {
+			window.open('https://app.erarta.ai');
+		},
 
         addEvents: function() {
             this.$window.on('touchstart', this.onTouch);
             this.$window.on('touchmove', this.onTouch);
             this.$window.on('touchend', this.onTouch);
+			this.$window.on('click', this.onTagLineClick);
             Backbone.on(AppEvents.Interactives.Show, this.hideTagLine);
         },
 
@@ -23410,7 +23416,7 @@ define('view/mobile/pages/home',[
         // handlers ---------------------------------------------------------------
 
         onTouch: function(e) {
-            e.preventDefault();
+            // e.preventDefault();
         },
 
         onResize: function(w, h) {
@@ -23854,7 +23860,7 @@ define('view/mobile/modules/menu/menu_item_view',[
 
             this.$el.on('touchend', this.onClick);
 
-            // Backbone.on('SCALE:RATIO:CHANGE', this.onFontSizeChange, this);
+            Backbone.on('SCALE:RATIO:CHANGE', this.onFontSizeChange, this);
         },
 
         removeEvents: function() {
@@ -24081,7 +24087,7 @@ define('view/mobile/pages/menu',[
             var href = '';
             // var href = $(e.currentTarget).data('href');
             if ($(e.currentTarget).hasClass('js-menu-about')) {
-                href = 'http://app.erarta.ai';
+				href = 'about';
             }else if ($(e.currentTarget).hasClass('js-menu-work')) {
                 href = 'work';
             }else if ($(e.currentTarget).hasClass('js-menu-contact')) {
@@ -24092,7 +24098,8 @@ define('view/mobile/pages/menu',[
 //             Backbone.trigger('MENU:OUT');
             switch (href) {
                 case 'about':
-                    this.onAboutClick();
+                    // this.onAboutClick();
+					window.open('https://app.erarta.ai');
                     break;
                 case 'work':
                     this.onWorkClick();
@@ -97698,7 +97705,7 @@ define('view/mobile/modules/shell/overview_button',[
 		},
 
 		addEvents: function() {
-
+			this.$button.on('click', this.onOver);
 			this.$button.on('touchstart', this.onOver);
             this.$button.on('touchend', this.onOut);
 		},
@@ -97753,8 +97760,9 @@ define('view/mobile/modules/shell/overview_button',[
 			this.el.style.display = 'none';
 		},
 
-        onOver: function() {
+        onOver: function(e) {
             this.shell.locked = true;
+			e.preventDefault();
         },
 
         onOut: function() {
