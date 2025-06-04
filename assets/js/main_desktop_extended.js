@@ -28026,7 +28026,8 @@ define('view/pages/menu_page', [
 			if (Config.TABLET) {
 				Backbone.trigger('MENU:OUT');
 			}
-			Router.navigate(AppModel.ROUTES.ABOUT, { trigger: true });
+			window.open('http://app.erarta.ai', '_blank');
+			// Router.navigate(AppModel.ROUTES.ABOUT, { trigger: true });
 		},
 
 		onWorkClick: function (e) {
