@@ -24081,7 +24081,7 @@ define('view/mobile/pages/menu',[
             var href = '';
             // var href = $(e.currentTarget).data('href');
             if ($(e.currentTarget).hasClass('js-menu-about')) {
-                href = 'about';
+                href = 'http://app.erarta.ai';
             }else if ($(e.currentTarget).hasClass('js-menu-work')) {
                 href = 'work';
             }else if ($(e.currentTarget).hasClass('js-menu-contact')) {
