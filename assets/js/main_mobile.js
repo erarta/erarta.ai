@@ -23371,7 +23371,7 @@ define('view/mobile/pages/home',[
         },
 
 		onTagLineClick: function() {
-			window.open('https://app.erarta.ai');
+			// window.open('https://app.erarta.ai');
 		},
 
         addEvents: function() {
