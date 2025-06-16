@@ -27909,7 +27909,7 @@ define('view/pages/menu_page', [
 			this.work.show();
 			this.contact.show();
 
-			Backbone.trigger('OVERVIEWBTN:HIDE');
+			// Backbone.trigger('OVERVIEWBTN:HIDE');
 
 			// make sure not hoverable
 			// TweenMax.delayedCall(2, this.onShowComplete);
