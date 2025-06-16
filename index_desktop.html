@@ -1,4 +1,7 @@
 <body>
+    <div class="top-menu">
+        
+    </div>
     <div class="js-shell shell">
         <div class="js-shell__button--drop shell__button--drop shell__button">
             <div class="button__hitarea"></div>
@@ -36,10 +39,13 @@
             <span class="js-button__divider button__divider"></span>
         </div>
         <div class="work__menu-archive-btn">
-            <a class="js-work__menu-list-btn work__menu-list-btn">
+            <a class="js-work__menu-list-btn work__menu-list-btn" style="margin-top: 0.5rem;">
                 <span>View All Projects</span>
                 <span class="underline animate"></span>
                 <span class="underline fade"></span>
+            </a>
+            <a class="js-launch-app-btn launch-app-btn" href="https://app.erarta.ai" target="_blank" rel="noopener noreferrer">
+                LAUNCH APP <span class="launch-app-arrow">&#8594;</span>
             </a>
         </div>
     </div>
@@ -99,7 +105,7 @@
                     <div class="js-ourapproach ourapproach col2">
                         <h3>Our Approach</h3>
                         <div class="js-ourapproach_inner ourapproach_inner inner right" data-text-effect-id="ourapproach">
-                            <p>We’re specialists in brand communication. Our approach combines creativity, strategy, design, and technology to create highly-accessible experiences that connect with audiences. Our advanced tools and processes enable us to deliver innovation.</p>
+                            <p>We're specialists in brand communication. Our approach combines creativity, strategy, design, and technology to create highly-accessible experiences that connect with audiences. Our advanced tools and processes enable us to deliver innovation.</p>
                         </div>
                     </div>
                     <div class="js-whatwedo whatwedo col2">
@@ -147,7 +153,7 @@
                     <div class="js-about__stats about__stats col2">
                         <!-- <h3>What we've won</h3> -->
                         <!-- <div class="stats__inner inner right">
-                            <p>Resn’s work has been recognised at the highest levels, winning more than 300 international awards including some of the most prestigious in the industry. Resn has twice won Awwwards Agency of the Year, has been named CSS Design Awards Agency of the Year, is a member of the FWA Hall of Fame and FWA Club 100, and has been included on Advertising Age’s Production Company A-List. Resn’s work has won numerous Cannes Lions, Webby Awards, One Show, D &amp;ADs, and Best Awards. Highlights include a Cannes Lions Titanium, three Cannes Lion Grand Prix, One Show Best in Discipline, and the DINZ John Britten Black Pin which is awarded for leadership, vision and achievement in New Zealand and internationally.</p>
+                            <p>Resn's work has been recognised at the highest levels, winning more than 300 international awards including some of the most prestigious in the industry. Resn has twice won Awwwards Agency of the Year, has been named CSS Design Awards Agency of the Year, is a member of the FWA Hall of Fame and FWA Club 100, and has been included on Advertising Age's Production Company A-List. Resn's work has won numerous Cannes Lions, Webby Awards, One Show, D &amp;ADs, and Best Awards. Highlights include a Cannes Lions Titanium, three Cannes Lion Grand Prix, One Show Best in Discipline, and the DINZ John Britten Black Pin which is awarded for leadership, vision and achievement in New Zealand and internationally.</p>
                             <div class="awards">
                                 <div class="stats__block fwa">
                                     <span class="number">121</span>
@@ -211,13 +217,16 @@
                 </div>
             </div>
             <div class="js-work__menu work__menu">
-                <div class="work__menu-archive-btn">
-                    <a class="js-work__menu-list-btn work__menu-list-btn">
+                <!-- <div class="work__menu-archive-btn" style="display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 0.5rem; margin-top: 1.5rem;">
+                    <a class="js-work__menu-list-btn work__menu-list-btn" style="margin-top: 0.5rem;">
                         <span>View All Projects</span>
                         <span class="underline animate"></span>
                         <span class="underline fade"></span>
                     </a>
-                </div>
+                    <a class="js-launch-app-btn launch-app-btn" href="https://app.erarta.ai" target="_blank" rel="noopener noreferrer">
+                        LAUNCH APP <span class="launch-app-arrow">&#8594;</span>
+                    </a>
+                </div> -->
                 <div class="js-work__menu-poster work__menu-poster"></div>
                 <div class="js-work__menu-items work__menu-items"></div>
                 <div class="js-work__menu-drag_icon work__menu-drag_icon">
@@ -400,5 +409,112 @@
         </div>
         <div class="js-background__shards background__shards"></div>
     </div>
+    <footer class="site-footer">
+        <div class="footer__inner">
+            <div class="footer__links">
+                <a href="/privacy-policy" class="footer__link">Privacy Policy</a>
+                <span class="footer__divider">|</span>
+                <a href="/license-agreement" class="footer__link">License Agreement</a>
+            </div>
+            <div class="footer__copyright">
+                Copyright © 2024-2025 ERARTA AI. All rights reserved.<br>
+                All trademarks and copyrights belong to their respective owners.
+            </div>
+        </div>
+    </footer>
+    <style>
+        .top-menu {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            z-index: 1000;
+            background: #000;
+        }
+        .top-menu__inner {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 1rem;
+            display: flex;
+            justify-content: flex-end;
+        }
+        .top-menu__app-link {
+            color: #fff;
+            text-decoration: none;
+            font-size: 1rem;
+            position: relative;
+            padding: 0.5rem 1rem;
+        }
+        .site-footer {
+            position: fixed;
+            bottom: 0;
+            left: 0;
+            width: 100%;
+            background: transparent;
+            color: #fff;
+            padding: 1rem 0;
+            z-index: 1000;
+        }
+        .footer__inner {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 1rem;
+            text-align: center;
+        }
+        .footer__links {
+            margin-bottom: 0.5rem;
+        }
+        .footer__link {
+            color: #fff;
+            text-decoration: none;
+            font-size: 0.9rem;
+        }
+        .footer__divider {
+            margin: 0 0.5rem;
+            color: rgba(255, 255, 255, 0.5);
+        }
+        .footer__copyright {
+            font-size: 0.8rem;
+            color: rgba(255, 255, 255, 0.7);
+            line-height: 1.4;
+        }
+        .launch-app-btn {
+            top: 8rem;
+            left: 2rem;
+            z-index: 9999;
+            display: inline-flex;
+            align-items: center;
+            text-transform: uppercase;
+            font-family: inherit;
+            font-size: 14px;
+            font-weight: 600;
+            letter-spacing: 0.05em;
+            color: #fff;
+            background: transparent;
+            border: 1px solid #fff;
+            padding: 0.6em 1.8em 0.6em 1.2em;
+            margin-left: 0.5em;
+            text-decoration: none;
+            transition: background 0.2s, color 0.2s, border 0.2s;
+            position: relative;
+            min-width: 160px;
+            justify-content: center;
+        }
+        .launch-app-btn:hover, .launch-app-btn:focus {
+            background: #fff;
+            color: #111;
+            border-color: #fff;
+            outline: none;
+        }
+        .launch-app-arrow {
+            display: inline-block;
+            margin-left: 1em;
+            font-size: 1.2em;
+            transition: transform 0.2s;
+        }
+        .launch-app-btn:hover .launch-app-arrow, .launch-app-btn:focus .launch-app-arrow {
+            transform: translateX(4px);
+        }
+    </style>
     <script data-main="./assets/js/loader" src="./assets/js/libs/require.js"></script>
 </body>

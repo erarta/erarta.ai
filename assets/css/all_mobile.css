@@ -676,8 +676,8 @@ h2.overlay-text,h3.overlay-text,p.overlay-text,span.overlay-text {
     align-items: center;
     -ms-flex-pack: center;
     justify-content: center;
-    -ms-flex-direction: column;
-    flex-direction: column;
+    -ms-flex-direction: row;
+    flex-direction: row;
     display: none;
 }
 
