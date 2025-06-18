@@ -3389,7 +3389,7 @@ h2.overlay-text,h3.overlay-text,p.overlay-text,span.overlay-text {
 }
 
 .launch-app-btn {
-    top: 8rem;
+    top: 4rem;
     left: 2rem;
     z-index: 9999;
     display: inline-flex;
